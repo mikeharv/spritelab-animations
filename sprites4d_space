@@ -1,0 +1,342 @@
+{
+  "orderedKeys": [
+    "318fdc11-7f1d-426d-857f-451f30ca5472",
+    "f3007536-300c-451a-a54a-5b4a248ef35d",
+    "01251856-55e7-4e2c-ab3c-b89ed24a9a76",
+    "16b19a36-4be6-4cb5-aebe-c8a6df370308",
+    "9992236d-2ab1-419b-9d6d-e8bef2c4041e",
+    "d918ab46-d931-4185-9eb2-7e72deb49a07",
+    "2f8c4dbd-fcd9-482d-8c07-494eab978832",
+    "754e25ec-9ecd-4d09-84b4-e6305a5fe419",
+    "e3298bfc-867a-4b81-b12f-f55e52b1ff29",
+    "c139afca-1ba1-4439-87cf-709fce39963a",
+    "dc7e4700-113a-4912-a99d-d41fadaea652",
+    "90e4de6d-1b91-44b7-9874-ec4adfd642a9",
+    "41b81b98-4858-4b39-a2b8-5528d4ded446",
+    "37b3cedb-d3a2-4ff9-91b9-f7b6f1ccda14",
+    "b774c12c-f18a-469d-81cc-6ba0de0402d7",
+    "53aa71ef-f4e6-4f34-a476-fc018da109e8",
+    "fbcea396-5aab-4a0f-b371-09f1776abe4d",
+    "8b5a2cdc-7037-4979-ab2e-58d473163d39",
+    "6462ff33-2a4b-4248-b585-52f1c05ac01e",
+    "26f2b7dd-7a78-47bd-8d8c-03477126be57",
+    "07edb98a-2d0a-442e-a0ba-511e6c3c9826"
+  ],
+  "propsByKey": {
+    "318fdc11-7f1d-426d-857f-451f30ca5472": {
+      "name": "space_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/qoFFPgWiydir6HZwldQy.Fmh8NmNhTI9/category_backgrounds/background_space.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "qoFFPgWiydir6HZwldQy.Fmh8NmNhTI9",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "f3007536-300c-451a-a54a-5b4a248ef35d": {
+      "name": "ship01_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/lPywb.zPwglquiYEmqW2hUu.C0BEbsPG/category_vehicles/ship01.png",
+      "frameSize": {
+        "x": 400,
+        "y": 204
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "lPywb.zPwglquiYEmqW2hUu.C0BEbsPG",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "01251856-55e7-4e2c-ab3c-b89ed24a9a76": {
+      "name": "ship02_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/2sZDbppCK.VfNIa0DrTRDKafNL9dC.YG/category_vehicles/ship02.png",
+      "frameSize": {
+        "x": 400,
+        "y": 244
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "2sZDbppCK.VfNIa0DrTRDKafNL9dC.YG",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "16b19a36-4be6-4cb5-aebe-c8a6df370308": {
+      "name": "ship10_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/16swvA_atz8z1bmx9elbnfkygyuHWDMs/category_vehicles/ship10.png",
+      "frameSize": {
+        "x": 398,
+        "y": 298
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "16swvA_atz8z1bmx9elbnfkygyuHWDMs",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "9992236d-2ab1-419b-9d6d-e8bef2c4041e": {
+      "name": "ufo_02_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/QrXSuy9Lst0RVUF7O1QEbrfGQLjzvxzy/category_vehicles/ufo_02.png",
+      "frameSize": {
+        "x": 398,
+        "y": 332
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "QrXSuy9Lst0RVUF7O1QEbrfGQLjzvxzy",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "d918ab46-d931-4185-9eb2-7e72deb49a07": {
+      "name": "astronaut_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/C07UkVmsjiLCWoQ9U_vl1e7INpeSMmE_/category_icons/astronaut.png",
+      "frameSize": {
+        "x": 328,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "C07UkVmsjiLCWoQ9U_vl1e7INpeSMmE_",
+      "categories": [
+        "icons"
+      ]
+    },
+    "2f8c4dbd-fcd9-482d-8c07-494eab978832": {
+      "name": "ufo_2",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/1NW0s4FKF54T3qL3gQC5gOgETMnxEZZw/category_icons/ufo.png",
+      "frameSize": {
+        "x": 386,
+        "y": 267
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "1NW0s4FKF54T3qL3gQC5gOgETMnxEZZw",
+      "categories": [
+        "icons"
+      ]
+    },
+    "754e25ec-9ecd-4d09-84b4-e6305a5fe419": {
+      "name": "earth_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/nGOenE1WijfC4DHy9IQB7Isq7IVsds8K/category_icons/earth.png",
+      "frameSize": {
+        "x": 393,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nGOenE1WijfC4DHy9IQB7Isq7IVsds8K",
+      "categories": [
+        "icons"
+      ]
+    },
+    "e3298bfc-867a-4b81-b12f-f55e52b1ff29": {
+      "name": "planet04_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/MNXTe9Vzbt4fPkzUHwmt2Pbzfo4_Gw07/category_icons/planet04.png",
+      "frameSize": {
+        "x": 400,
+        "y": 366
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "MNXTe9Vzbt4fPkzUHwmt2Pbzfo4_Gw07",
+      "categories": [
+        "icons"
+      ]
+    },
+    "c139afca-1ba1-4439-87cf-709fce39963a": {
+      "name": "planet05_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/T11WK4Za.d1YiZvBMHJVlywR8zjqws2d/category_icons/planet05.png",
+      "frameSize": {
+        "x": 400,
+        "y": 372
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "T11WK4Za.d1YiZvBMHJVlywR8zjqws2d",
+      "categories": [
+        "icons"
+      ]
+    },
+    "dc7e4700-113a-4912-a99d-d41fadaea652": {
+      "name": "planet10_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/uvE6yyHtfv4XLjrsV6aH.QCTZvJjT16e/category_icons/planet10.png",
+      "frameSize": {
+        "x": 396,
+        "y": 348
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "uvE6yyHtfv4XLjrsV6aH.QCTZvJjT16e",
+      "categories": [
+        "icons"
+      ]
+    },
+    "90e4de6d-1b91-44b7-9874-ec4adfd642a9": {
+      "name": "planet11_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/uftJeLVlYsshEVa.ZLjPHV89eW8YxbCZ/category_icons/planet11.png",
+      "frameSize": {
+        "x": 396,
+        "y": 362
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "uftJeLVlYsshEVa.ZLjPHV89eW8YxbCZ",
+      "categories": [
+        "icons"
+      ]
+    },
+    "41b81b98-4858-4b39-a2b8-5528d4ded446": {
+      "name": "planet13_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/bkSmyTgb1jqA3TCS_I3VopIhBEXY4Jm1/category_icons/planet13.png",
+      "frameSize": {
+        "x": 400,
+        "y": 260
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "bkSmyTgb1jqA3TCS_I3VopIhBEXY4Jm1",
+      "categories": [
+        "icons"
+      ]
+    },
+    "37b3cedb-d3a2-4ff9-91b9-f7b6f1ccda14": {
+      "name": "planet14_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/tcyYeCxcLZ.bvfHrwoHi7j4qwj3J0kkv/category_icons/planet14.png",
+      "frameSize": {
+        "x": 400,
+        "y": 372
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "tcyYeCxcLZ.bvfHrwoHi7j4qwj3J0kkv",
+      "categories": [
+        "icons"
+      ]
+    },
+    "b774c12c-f18a-469d-81cc-6ba0de0402d7": {
+      "name": "planet18_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/co2EZKS9g2HlsHn9RXUGDQnVqv7ZE_dr/category_icons/planet18.png",
+      "frameSize": {
+        "x": 384,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "co2EZKS9g2HlsHn9RXUGDQnVqv7ZE_dr",
+      "categories": [
+        "icons"
+      ]
+    },
+    "53aa71ef-f4e6-4f34-a476-fc018da109e8": {
+      "name": "star1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/nsU6EGw9VtOgGEZ8U_ogGrttDX_tqt0E/category_icons/star1.png",
+      "frameSize": {
+        "x": 396,
+        "y": 376
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nsU6EGw9VtOgGEZ8U_ogGrttDX_tqt0E",
+      "categories": [
+        "icons"
+      ]
+    },
+    "fbcea396-5aab-4a0f-b371-09f1776abe4d": {
+      "name": "star2_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/EFviWFsqhJEiYyNlum1dylHp1p6reyZQ/category_icons/star2.png",
+      "frameSize": {
+        "x": 393,
+        "y": 375
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "EFviWFsqhJEiYyNlum1dylHp1p6reyZQ",
+      "categories": [
+        "icons"
+      ]
+    },
+    "8b5a2cdc-7037-4979-ab2e-58d473163d39": {
+      "name": "alienGreen_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/4.t6IDgXj00fjxSiOZK.KXVz4qDwmz9l/category_fantasy/alienGreen.png",
+      "frameSize": {
+        "x": 66,
+        "y": 92
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "4.t6IDgXj00fjxSiOZK.KXVz4qDwmz9l",
+      "categories": [
+        "fantasy"
+      ]
+    },
+    "6462ff33-2a4b-4248-b585-52f1c05ac01e": {
+      "name": "alienPink_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/wiR206q33qswiDOY6nDcx6jIbKVO2.e3/category_fantasy/alienPink.png",
+      "frameSize": {
+        "x": 66,
+        "y": 92
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "wiR206q33qswiDOY6nDcx6jIbKVO2.e3",
+      "categories": [
+        "fantasy"
+      ]
+    },
+    "26f2b7dd-7a78-47bd-8d8c-03477126be57": {
+      "name": "alienYellow_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/hqQGdMdKGlhSG.CyibUP63V1cTWJfult/category_fantasy/alienYellow.png",
+      "frameSize": {
+        "x": 66,
+        "y": 82
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "hqQGdMdKGlhSG.CyibUP63V1cTWJfult",
+      "categories": [
+        "fantasy"
+      ]
+    },
+    "07edb98a-2d0a-442e-a0ba-511e6c3c9826": {
+      "name": "alienBlue_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/yoXBG2L287khtgsZxziHgV12eUhQwZRS/category_fantasy/alienBlue.png",
+      "frameSize": {
+        "x": 66,
+        "y": 92
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "yoXBG2L287khtgsZxziHgV12eUhQwZRS",
+      "categories": [
+        "fantasy"
+      ]
+    }
+  }
+}
