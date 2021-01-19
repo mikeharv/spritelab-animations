@@ -1,0 +1,102 @@
+{
+  "orderedKeys": [
+    "ba6041cd-92ff-44b3-b227-6cfb3e0c21de",
+    "f71961d3-5f52-4129-b258-4097b3a8586b",
+    "e4055b02-b979-4682-9807-901832201818",
+    "31c7c715-7821-4ac9-a138-bc33bb87cace",
+    "5d6afa10-be8e-4dfc-961d-c08b6b06987e",
+    "5327c8f2-c521-478f-8386-b27e634827ad"
+  ],
+  "propsByKey": {
+    "ba6041cd-92ff-44b3-b227-6cfb3e0c21de": {
+      "name": "cuteanimals_bunny3_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/wNu9FWrBfrwG14BlvRrvIHJ.d6OQIY2J/category_animals/cuteanimals_bunny3.png",
+      "frameSize": {
+        "x": 216,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "wNu9FWrBfrwG14BlvRrvIHJ.d6OQIY2J",
+      "categories": [
+        "animals"
+      ]
+    },
+    "f71961d3-5f52-4129-b258-4097b3a8586b": {
+      "name": "gamefood12_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/Y.ZqGbtwZ63n.mCNDQV04akRra8G__Cj/category_food/gamefood12.png",
+      "frameSize": {
+        "x": 374,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Y.ZqGbtwZ63n.mCNDQV04akRra8G__Cj",
+      "categories": [
+        "food"
+      ]
+    },
+    "e4055b02-b979-4682-9807-901832201818": {
+      "name": "ship09_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/acj2gz96xkj4Q1iBtJ_8I6lJW0WaR0CX/category_vehicles/ship09.png",
+      "frameSize": {
+        "x": 400,
+        "y": 278
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "acj2gz96xkj4Q1iBtJ_8I6lJW0WaR0CX",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "31c7c715-7821-4ac9-a138-bc33bb87cace": {
+      "name": "star1_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/nsU6EGw9VtOgGEZ8U_ogGrttDX_tqt0E/category_icons/star1.png",
+      "frameSize": {
+        "x": 396,
+        "y": 376
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nsU6EGw9VtOgGEZ8U_ogGrttDX_tqt0E",
+      "categories": [
+        "icons"
+      ]
+    },
+    "5d6afa10-be8e-4dfc-961d-c08b6b06987e": {
+      "name": "sticker_12_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/ds6tFbUz6rK49A8_WcKlK4eGrPOLsmcZ/category_stickers/sticker_12.png",
+      "frameSize": {
+        "x": 398,
+        "y": 326
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "ds6tFbUz6rK49A8_WcKlK4eGrPOLsmcZ",
+      "categories": [
+        "stickers"
+      ]
+    },
+    "5327c8f2-c521-478f-8386-b27e634827ad": {
+      "name": "sticker_13_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/mhTc2boZuYHsdcCOg8r5Xb4_Hxfa4Y9Q/category_stickers/sticker_13.png",
+      "frameSize": {
+        "x": 144,
+        "y": 194
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "mhTc2boZuYHsdcCOg8r5Xb4_Hxfa4Y9Q",
+      "categories": [
+        "stickers"
+      ]
+    }
+  }
+}
