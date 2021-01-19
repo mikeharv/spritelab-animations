@@ -1,0 +1,422 @@
+{
+  "orderedKeys": [
+    "53159edc-ff60-4eaa-9bb9-7fb1a6b98b14",
+    "2c1fba29-dd50-4f5f-8c34-fb7a776025e9",
+    "9ba9e5e0-a311-4594-a1bd-5d1c258e5141",
+    "8bad314b-8cc9-43c8-ab3e-bff2c3b64a71",
+    "4d12cdce-4300-40ff-83be-0a373c1d8f10",
+    "9d58ef1e-0e8c-4bc2-a6fe-49f1b5ebd696",
+    "7219609c-a6e0-4948-b7d9-548621e719e2",
+    "7b4e482f-3432-43f3-ab4f-5e6f396896dc",
+    "f9529a8c-f500-4ecf-b3ae-0a8c7b30348e",
+    "dd2fc87e-1d23-4fc8-a5eb-cd48d0aefa1e",
+    "6c571809-49ed-4b7d-9c0b-595f285eaa2c",
+    "f98757a6-13b0-44c4-bbcb-b5e7afca04af",
+    "fac23dd9-b01a-4917-ab32-d18945f1fd17",
+    "27994316-ef11-4150-b98c-152c5016a64a",
+    "cee4e460-82f4-4b67-bff9-d0161e0c384c",
+    "cbf4d0c6-4edd-400f-b82c-063742ec7189",
+    "71497462-faf4-451e-b6d7-b77721eebff8",
+    "942532d9-df27-49a4-8623-ba9c4775be62",
+    "0efd5ffe-e550-407c-b58b-e4dc7edb65d5",
+    "517f87ac-637c-487a-832b-7794844b3ad1",
+    "89ae93c2-ddfd-495e-bbb2-1c74b85dd307",
+    "0054631f-8d41-4de4-a7a9-d2a4b458f76c",
+    "f39e0669-3b68-41dc-887b-586acf4e08f7",
+    "0a3394f7-8b01-456a-bef7-ef616565ccf7",
+    "ca2617cb-9071-4de7-98cf-9fb05c5db630",
+    "693b7485-62c7-4f2c-bf94-c77bde0caa00"
+  ],
+  "propsByKey": {
+    "53159edc-ff60-4eaa-9bb9-7fb1a6b98b14": {
+      "name": "abstract_08_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/.g_fM0jG5YHeQCetPtAd_H9pyzUfaVjK/category_backgrounds/abstract_08.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": ".g_fM0jG5YHeQCetPtAd_H9pyzUfaVjK",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "2c1fba29-dd50-4f5f-8c34-fb7a776025e9": {
+      "name": "abstract_26_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/_pBimGWbiO2Nbb6J7Bfjez6VIWSBKdx./category_backgrounds/abstract_26.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "_pBimGWbiO2Nbb6J7Bfjez6VIWSBKdx.",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "9ba9e5e0-a311-4594-a1bd-5d1c258e5141": {
+      "name": "abstract_15_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/kpGIKirow4l3xRdN_BYD7pW3aVlfysex/category_backgrounds/abstract_15.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "kpGIKirow4l3xRdN_BYD7pW3aVlfysex",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "8bad314b-8cc9-43c8-ab3e-bff2c3b64a71": {
+      "name": "gradient_01_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/UXLibXLPPb5ofYkbGpXPPKBf.txNOBHP/category_backgrounds/gradient_01.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "UXLibXLPPb5ofYkbGpXPPKBf.txNOBHP",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "4d12cdce-4300-40ff-83be-0a373c1d8f10": {
+      "name": "gradient_05_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/JYwCIVNjSQoRrBZIivlnu5xW6vwOpEQH/category_backgrounds/gradient_05.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "JYwCIVNjSQoRrBZIivlnu5xW6vwOpEQH",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "9d58ef1e-0e8c-4bc2-a6fe-49f1b5ebd696": {
+      "name": "gradient_34_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6/category_backgrounds/gradient_34.png",
+      "frameSize": {
+        "x": 400,
+        "y": 356
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "7219609c-a6e0-4948-b7d9-548621e719e2": {
+      "name": "court_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/T.BLfNn.3XTblWtBQ7GC1tSx4_8IsEJV/category_backgrounds/background_court.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "T.BLfNn.3XTblWtBQ7GC1tSx4_8IsEJV",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "7b4e482f-3432-43f3-ab4f-5e6f396896dc": {
+      "name": "texture_11_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/NjoRr_EHgRkswlCOr2UcPOx6bPfCJfdP/category_backgrounds/texture_11.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "NjoRr_EHgRkswlCOr2UcPOx6bPfCJfdP",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "f9529a8c-f500-4ecf-b3ae-0a8c7b30348e": {
+      "name": "texture_17_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/MrqOCr9Ohv9fBn.29A1qtGvPFAuj8gVJ/category_backgrounds/texture_17.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "MrqOCr9Ohv9fBn.29A1qtGvPFAuj8gVJ",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "dd2fc87e-1d23-4fc8-a5eb-cd48d0aefa1e": {
+      "name": "face_apple_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/D9I677s9Rz4Ww_Znrcm36XWuz8WA0Kh8/category_food/face_apple.png",
+      "frameSize": {
+        "x": 392,
+        "y": 393
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "D9I677s9Rz4Ww_Znrcm36XWuz8WA0Kh8",
+      "categories": [
+        "food"
+      ]
+    },
+    "6c571809-49ed-4b7d-9c0b-595f285eaa2c": {
+      "name": "face_banana_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pWFbbj15zL1DL.xT.w9LmvN_ZdtcMo_W/category_food/face_banana.png",
+      "frameSize": {
+        "x": 264,
+        "y": 397
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pWFbbj15zL1DL.xT.w9LmvN_ZdtcMo_W",
+      "categories": [
+        "food"
+      ]
+    },
+    "f98757a6-13b0-44c4-bbcb-b5e7afca04af": {
+      "name": "face_broc_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/ub5g3lhCqabDt4tlhLOEG85lxxCTsCt1/category_food/face_broc.png",
+      "frameSize": {
+        "x": 340,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "ub5g3lhCqabDt4tlhLOEG85lxxCTsCt1",
+      "categories": [
+        "food"
+      ]
+    },
+    "fac23dd9-b01a-4917-ab32-d18945f1fd17": {
+      "name": "face_burger_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/l..BIzEFYJNv7_aOrcRH1BnVBT6le3QF/category_food/face_burger.png",
+      "frameSize": {
+        "x": 400,
+        "y": 341
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "l..BIzEFYJNv7_aOrcRH1BnVBT6le3QF",
+      "categories": [
+        "food"
+      ]
+    },
+    "27994316-ef11-4150-b98c-152c5016a64a": {
+      "name": "face_cheese_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/mTHFqtXkV2vEuStyCuT6pnWuU.dx7j9v/category_food/face_cheese.png",
+      "frameSize": {
+        "x": 400,
+        "y": 265
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "mTHFqtXkV2vEuStyCuT6pnWuU.dx7j9v",
+      "categories": [
+        "food"
+      ]
+    },
+    "cee4e460-82f4-4b67-bff9-d0161e0c384c": {
+      "name": "face_cone_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/5FpppXc1ZxpiVOvae2HOUffVUddQn2D1/category_food/face_cone.png",
+      "frameSize": {
+        "x": 116,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "5FpppXc1ZxpiVOvae2HOUffVUddQn2D1",
+      "categories": [
+        "food"
+      ]
+    },
+    "cbf4d0c6-4edd-400f-b82c-063742ec7189": {
+      "name": "face_cookie2_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/GbVLof9Ajvu4cgUBCblj0pbKup2mab4S/category_food/face_cookie2.png",
+      "frameSize": {
+        "x": 393,
+        "y": 393
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "GbVLof9Ajvu4cgUBCblj0pbKup2mab4S",
+      "categories": [
+        "food"
+      ]
+    },
+    "71497462-faf4-451e-b6d7-b77721eebff8": {
+      "name": "face_croissant_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/NhXb8lZRoRapgpQVieCzmi_rYWRwAyjk/category_food/face_croissant.png",
+      "frameSize": {
+        "x": 396,
+        "y": 329
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "NhXb8lZRoRapgpQVieCzmi_rYWRwAyjk",
+      "categories": [
+        "food"
+      ]
+    },
+    "942532d9-df27-49a4-8623-ba9c4775be62": {
+      "name": "face_cupcake_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/KHrxG_UKYXBvq5A284g3HbUGHHaHSGMo/category_food/face_cupcake.png",
+      "frameSize": {
+        "x": 285,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "KHrxG_UKYXBvq5A284g3HbUGHHaHSGMo",
+      "categories": [
+        "food"
+      ]
+    },
+    "0efd5ffe-e550-407c-b58b-e4dc7edb65d5": {
+      "name": "face_fries_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/Xe0Z0iN1tr7V.TAUyahGQ5rYr2DYFYnG/category_food/face_fries.png",
+      "frameSize": {
+        "x": 307,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Xe0Z0iN1tr7V.TAUyahGQ5rYr2DYFYnG",
+      "categories": [
+        "food"
+      ]
+    },
+    "517f87ac-637c-487a-832b-7794844b3ad1": {
+      "name": "face_soda_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/7_Xji9cd70UBogGd1ZOpi4UoV0zoyvau/category_food/face_soda.png",
+      "frameSize": {
+        "x": 199,
+        "y": 395
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "7_Xji9cd70UBogGd1ZOpi4UoV0zoyvau",
+      "categories": [
+        "food"
+      ]
+    },
+    "89ae93c2-ddfd-495e-bbb2-1c74b85dd307": {
+      "name": "face_steak_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/7HxzZcSNnZHWE6N7g5WBm14kRTxWiZPY/category_food/face_steak.png",
+      "frameSize": {
+        "x": 314,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "7HxzZcSNnZHWE6N7g5WBm14kRTxWiZPY",
+      "categories": [
+        "food"
+      ]
+    },
+    "0054631f-8d41-4de4-a7a9-d2a4b458f76c": {
+      "name": "face_strawberry_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/2O84JtbnWjil7f2R0oUqvFTRHnFaGCIw/category_food/face_strawberry.png",
+      "frameSize": {
+        "x": 310,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "2O84JtbnWjil7f2R0oUqvFTRHnFaGCIw",
+      "categories": [
+        "food"
+      ]
+    },
+    "f39e0669-3b68-41dc-887b-586acf4e08f7": {
+      "name": "face_sweet2_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/wpeYu8H1mQBr2BY1t.3SuH31.sN4WtqX/category_food/face_sweet2.png",
+      "frameSize": {
+        "x": 396,
+        "y": 216
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "wpeYu8H1mQBr2BY1t.3SuH31.sN4WtqX",
+      "categories": [
+        "food"
+      ]
+    },
+    "0a3394f7-8b01-456a-bef7-ef616565ccf7": {
+      "name": "face_taco_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/S0AVI7mnOI8nWDxmZ1NPz2lMDRfmhAF3/category_food/face_taco.png",
+      "frameSize": {
+        "x": 399,
+        "y": 235
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "S0AVI7mnOI8nWDxmZ1NPz2lMDRfmhAF3",
+      "categories": [
+        "food"
+      ]
+    },
+    "ca2617cb-9071-4de7-98cf-9fb05c5db630": {
+      "name": "face_toast_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/9NgMxsqJPsDctSMCoxBbJOqM_OOWHd2Y/category_food/face_toast.png",
+      "frameSize": {
+        "x": 362,
+        "y": 384
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "9NgMxsqJPsDctSMCoxBbJOqM_OOWHd2Y",
+      "categories": [
+        "food"
+      ]
+    },
+    "693b7485-62c7-4f2c-bf94-c77bde0caa00": {
+      "name": "face_watermelon_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/T6lKd.3NOqCiM0bxWmJ5fGdU27tk9rsD/category_food/face_watermelon.png",
+      "frameSize": {
+        "x": 396,
+        "y": 199
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "T6lKd.3NOqCiM0bxWmJ5fGdU27tk9rsD",
+      "categories": [
+        "food"
+      ]
+    }
+  }
+}
