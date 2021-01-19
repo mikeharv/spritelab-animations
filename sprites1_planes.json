@@ -1,0 +1,54 @@
+{
+  "orderedKeys": [
+    "ee418c45-96ab-46c1-af4d-70073ee59fde",
+    "ea0e0b61-add2-4890-90ce-657b36acf35d",
+    "a0b3644e-d42e-487f-bf8b-63d874b8bc8e"
+  ],
+  "propsByKey": {
+    "ee418c45-96ab-46c1-af4d-70073ee59fde": {
+      "name": "grid_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr/category_backgrounds/background_grid.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "ea0e0b61-add2-4890-90ce-657b36acf35d": {
+      "name": "planeRed1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/doNsuLSldRWw4EqNUuQ0oxoMGvLIMOca/category_vehicles/planeRed1.png",
+      "frameSize": {
+        "x": 88,
+        "y": 73
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "doNsuLSldRWw4EqNUuQ0oxoMGvLIMOca",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "a0b3644e-d42e-487f-bf8b-63d874b8bc8e": {
+      "name": "planeBlue1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/N8nE_yTUDZ.3xJ03IT21_joiiSkUtXbd/category_vehicles/planeBlue1.png",
+      "frameSize": {
+        "x": 88,
+        "y": 73
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "N8nE_yTUDZ.3xJ03IT21_joiiSkUtXbd",
+      "categories": [
+        "vehicles"
+      ]
+    }
+  }
+}
