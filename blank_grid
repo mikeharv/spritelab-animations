@@ -1,0 +1,22 @@
+{
+  "orderedKeys": [
+    "0a2424f1-b746-4da8-8ba0-ffde4f93003d"
+  ],
+  "propsByKey": {
+    "0a2424f1-b746-4da8-8ba0-ffde4f93003d": {
+      "name": "grid_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr/category_backgrounds/background_grid.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
