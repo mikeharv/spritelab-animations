@@ -1,0 +1,342 @@
+{
+  "orderedKeys": [
+    "621aaf1f-68cc-4d2f-a81f-037f480fe7c9",
+    "40ea02aa-56f7-4bc7-a857-66e3aaffe93b",
+    "6fa0e697-2d7f-4354-b3ba-729fc2ff0d60",
+    "96af46ab-687d-43b2-91e5-ef78ba5dab61",
+    "46ae7e36-041b-4387-8982-bdfded2bb7bd",
+    "f1cb48e5-94e7-4b88-bcf0-ffc07aec7397",
+    "4d6aed6f-1feb-4322-809c-d766d4d82059",
+    "679cb292-2da6-4fc9-9ead-974af0eb969a",
+    "f9a95006-e47e-4a89-9ffa-388c5b553b9f",
+    "d5eab533-1b7a-4f51-84d7-2e332ae1cca8",
+    "f177a1fc-eb0c-4ecd-bd47-9f7d73aba7c6",
+    "b2a82cff-4112-4063-9b00-e132ca708410",
+    "e1d96df6-c393-48e3-80fc-f737c18d06cc",
+    "a7899cdb-f080-48fd-bd1a-8d46fa569139",
+    "8d5e1e5a-2e65-4149-9d90-7bc6ebc675e4",
+    "029ce32b-4e53-4b27-ae9c-a8a3b51ed19e",
+    "a71cc21a-6846-4119-ae8d-361e82f9d2c8",
+    "ac545856-f29c-437f-a2f6-19b0c3a4dfd7",
+    "ac14012c-8f53-43e3-9b77-ffcfb86dd5f0",
+    "4add791c-1961-4397-81b6-82c98a9ab33c",
+    "2e35c917-5e85-4b2c-92d3-0551cd11dcbb"
+  ],
+  "propsByKey": {
+    "621aaf1f-68cc-4d2f-a81f-037f480fe7c9": {
+      "name": "sunshine_showers_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/2RNMR6.K0ycRUzGH2f_.KDC56AlzdXPI/category_backgrounds/sunshine_showers.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "2RNMR6.K0ycRUzGH2f_.KDC56AlzdXPI",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "40ea02aa-56f7-4bc7-a857-66e3aaffe93b": {
+      "name": "santa_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/9ZleRnJkMxYhfpPY2zZrrikGdZ6H6F6l/category_backgrounds/background_santa.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "9ZleRnJkMxYhfpPY2zZrrikGdZ6H6F6l",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "6fa0e697-2d7f-4354-b3ba-729fc2ff0d60": {
+      "name": "continuous_grass_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/bzBzwUgBEeqWUbNBmcmnl1egMrpmBw3o/category_backgrounds/continuous_grass.png",
+      "frameSize": {
+        "x": 800,
+        "y": 398
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "bzBzwUgBEeqWUbNBmcmnl1egMrpmBw3o",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "96af46ab-687d-43b2-91e5-ef78ba5dab61": {
+      "name": "background_landscape26_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/qerN0VWVdOLmI2WvXaDIpUO60eJ_eNII/category_backgrounds/background_landscape26.png",
+      "frameSize": {
+        "x": 400,
+        "y": 390
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "qerN0VWVdOLmI2WvXaDIpUO60eJ_eNII",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "46ae7e36-041b-4387-8982-bdfded2bb7bd": {
+      "name": "birdside_01_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/1Dwwlsn11G9qOAo5LH8f2JXcAwL0KtR_/category_animals/birdside_01.png",
+      "frameSize": {
+        "x": 400,
+        "y": 202
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "1Dwwlsn11G9qOAo5LH8f2JXcAwL0KtR_",
+      "categories": [
+        "animals"
+      ]
+    },
+    "f1cb48e5-94e7-4b88-bcf0-ffc07aec7397": {
+      "name": "birdside_04_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/_H2WK7WHd0ylCLmiKSquSoipJWKJr3Ld/category_animals/birdside_04.png",
+      "frameSize": {
+        "x": 398,
+        "y": 278
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "_H2WK7WHd0ylCLmiKSquSoipJWKJr3Ld",
+      "categories": [
+        "animals"
+      ]
+    },
+    "4d6aed6f-1feb-4322-809c-d766d4d82059": {
+      "name": "birdside_05_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/7cOQYj6ohupOvwrSJIjaCw2tRI7Z4jnR/category_animals/birdside_05.png",
+      "frameSize": {
+        "x": 400,
+        "y": 294
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "7cOQYj6ohupOvwrSJIjaCw2tRI7Z4jnR",
+      "categories": [
+        "animals"
+      ]
+    },
+    "679cb292-2da6-4fc9-9ead-974af0eb969a": {
+      "name": "birdside_07_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/8neWBOgk0vflUeb0WIgKxWTDjVHQsmUI/category_animals/birdside_07.png",
+      "frameSize": {
+        "x": 400,
+        "y": 214
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "8neWBOgk0vflUeb0WIgKxWTDjVHQsmUI",
+      "categories": [
+        "animals"
+      ]
+    },
+    "f9a95006-e47e-4a89-9ffa-388c5b553b9f": {
+      "name": "birdside_15_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/PYmxgeNSNCYRIAkJ2sJh7IFAgfIPLXpt/category_animals/birdside_15.png",
+      "frameSize": {
+        "x": 394,
+        "y": 200
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "PYmxgeNSNCYRIAkJ2sJh7IFAgfIPLXpt",
+      "categories": [
+        "animals"
+      ]
+    },
+    "d5eab533-1b7a-4f51-84d7-2e332ae1cca8": {
+      "name": "birdside_16_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/oUhuIiJxuqHLbaoGq0UT3YaWt1EnHUaC/category_animals/birdside_16.png",
+      "frameSize": {
+        "x": 266,
+        "y": 176
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "oUhuIiJxuqHLbaoGq0UT3YaWt1EnHUaC",
+      "categories": [
+        "animals"
+      ]
+    },
+    "f177a1fc-eb0c-4ecd-bd47-9f7d73aba7c6": {
+      "name": "planeBlue1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/N8nE_yTUDZ.3xJ03IT21_joiiSkUtXbd/category_vehicles/planeBlue1.png",
+      "frameSize": {
+        "x": 88,
+        "y": 73
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "N8nE_yTUDZ.3xJ03IT21_joiiSkUtXbd",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "b2a82cff-4112-4063-9b00-e132ca708410": {
+      "name": "planeGreen1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/4mFa.jM6Smmg6K9wq4hGG.m_F5JZ5..i/category_vehicles/planeGreen1.png",
+      "frameSize": {
+        "x": 88,
+        "y": 73
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "4mFa.jM6Smmg6K9wq4hGG.m_F5JZ5..i",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "e1d96df6-c393-48e3-80fc-f737c18d06cc": {
+      "name": "planeRed1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/doNsuLSldRWw4EqNUuQ0oxoMGvLIMOca/category_vehicles/planeRed1.png",
+      "frameSize": {
+        "x": 88,
+        "y": 73
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "doNsuLSldRWw4EqNUuQ0oxoMGvLIMOca",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "a7899cdb-f080-48fd-bd1a-8d46fa569139": {
+      "name": "planeYellow1_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/qcaNo2jTsMDoG3w9CrSW9hQCgsyRleaC/category_vehicles/planeYellow1.png",
+      "frameSize": {
+        "x": 88,
+        "y": 73
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "qcaNo2jTsMDoG3w9CrSW9hQCgsyRleaC",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "8d5e1e5a-2e65-4149-9d90-7bc6ebc675e4": {
+      "name": "cloud_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/OF1O6K8reSO1jSzz.UyS22meEfEw4DJq/category_game_blocks/cloud.png",
+      "frameSize": {
+        "x": 260,
+        "y": 134
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "OF1O6K8reSO1jSzz.UyS22meEfEw4DJq",
+      "categories": [
+        "game_blocks"
+      ]
+    },
+    "029ce32b-4e53-4b27-ae9c-a8a3b51ed19e": {
+      "name": "sun_1",
+      "sourceUrl": "https://studio.code.org/v3/animations/8wyDUEHh1MkC6oIY7dcE0q13mkJNH-Na8GAd2JDTdes/029ce32b-4e53-4b27-ae9c-a8a3b51ed19e.png?version=Fdh1lo5tJgmgfqekvHRSiOjyWUk2IMWi",
+      "frameSize": {
+        "x": 150,
+        "y": 150
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 12,
+      "version": "Fdh1lo5tJgmgfqekvHRSiOjyWUk2IMWi",
+      "categories": [
+        "game_blocks"
+      ]
+    },
+    "a71cc21a-6846-4119-ae8d-361e82f9d2c8": {
+      "name": "cloud_2",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/SFSiRCSKpY8XgbZ8r02qMYlqqmsdNbrh/category_icons/cloud.png",
+      "frameSize": {
+        "x": 386,
+        "y": 268
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "SFSiRCSKpY8XgbZ8r02qMYlqqmsdNbrh",
+      "categories": [
+        "icons"
+      ]
+    },
+    "ac545856-f29c-437f-a2f6-19b0c3a4dfd7": {
+      "name": "sun_2",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/knVkn0PWAe33ZGmZASkzXLBnj1H6j5H4/category_icons/sun.png",
+      "frameSize": {
+        "x": 391,
+        "y": 390
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "knVkn0PWAe33ZGmZASkzXLBnj1H6j5H4",
+      "categories": [
+        "icons"
+      ]
+    },
+    "ac14012c-8f53-43e3-9b77-ffcfb86dd5f0": {
+      "name": "butterfly_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/MN._ebIYGmNQMTED9ssZ2vZU03kNOUvp/category_icons/butterfly.png",
+      "frameSize": {
+        "x": 398,
+        "y": 350
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "MN._ebIYGmNQMTED9ssZ2vZU03kNOUvp",
+      "categories": [
+        "icons"
+      ]
+    },
+    "4add791c-1961-4397-81b6-82c98a9ab33c": {
+      "name": "helicopter_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/sYPFLoB1TE09j.zX4wGRPIOHfkL0FAoR/category_icons/helicopter.png",
+      "frameSize": {
+        "x": 382,
+        "y": 213
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "sYPFLoB1TE09j.zX4wGRPIOHfkL0FAoR",
+      "categories": [
+        "icons"
+      ]
+    },
+    "2e35c917-5e85-4b2c-92d3-0551cd11dcbb": {
+      "name": "ufo_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/1NW0s4FKF54T3qL3gQC5gOgETMnxEZZw/category_icons/ufo.png",
+      "frameSize": {
+        "x": 386,
+        "y": 267
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "1NW0s4FKF54T3qL3gQC5gOgETMnxEZZw",
+      "categories": [
+        "icons"
+      ]
+    }
+  }
+}
