@@ -1,0 +1,358 @@
+{
+  "orderedKeys": [
+    "7a21ab64-4b1d-497d-9803-0d36204844bf",
+    "d10bb76a-6237-4602-87ef-c96f36189070",
+    "d2acba98-e097-4155-8139-e4cfebd8da92",
+    "5c01880f-161d-4987-8c2a-a3d7355bc6f9",
+    "7d9acda3-19dd-4846-bb9a-cfce7b164f37",
+    "a3d588c3-f7af-4ed1-85ba-337f34b04e46",
+    "a7bd9742-87ef-4e83-bc9f-6c63e352c397",
+    "646df11e-f830-480e-a7cf-b3fcb7fdca8f",
+    "9c128316-c37a-4924-a4a6-d854e583ab8f",
+    "45de35e8-57b7-4768-b23b-997fe40ff4ba",
+    "0267f188-8a6b-4155-8b44-08fef7fa6abf",
+    "f7beee58-63ab-4006-804f-a60f61f74060",
+    "2b686e60-fd6a-4796-bb75-2201e1e24394",
+    "19a3232a-d6dd-40ff-bbbd-242f51529fa3",
+    "38794a3e-6c12-468a-a01e-40f0c87fda18",
+    "0f8704cc-1c54-4f2e-882e-4e34e7f21cac",
+    "18d85e9e-a419-4cf5-bf7a-e8cc3037b005",
+    "b8e072de-a769-4601-baed-d4b4efe1183f",
+    "0e346a8a-6ceb-42fa-96d5-132cd174629b",
+    "06802868-1eab-40c0-a137-c2f6f38b6fdf",
+    "e0eeeda0-53ca-4e8b-aff5-93b22a5c53fc",
+    "aa4a2a0a-2fba-4922-b480-b15382fcb1f8"
+  ],
+  "propsByKey": {
+    "7a21ab64-4b1d-497d-9803-0d36204844bf": {
+      "name": "bg_underwater_02_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/WZ9Eh0Mt6gY_h6uGTwUn_qal4ZBKP8gX/category_backgrounds/bg_underwater_02.png",
+      "frameSize": {
+        "x": 400,
+        "y": 395
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "WZ9Eh0Mt6gY_h6uGTwUn_qal4ZBKP8gX",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "d10bb76a-6237-4602-87ef-c96f36189070": {
+      "name": "background_underwater_11_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/liip36Uzd.UEskze8YUtuWMvk3veS2QD/category_backgrounds/background_underwater_11.png",
+      "frameSize": {
+        "x": 400,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "liip36Uzd.UEskze8YUtuWMvk3veS2QD",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "d2acba98-e097-4155-8139-e4cfebd8da92": {
+      "name": "background_underwater_05_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/b.wUIlJjGpUDp5hPJOOrJBX9HqHOOATt/category_backgrounds/background_underwater_05.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "b.wUIlJjGpUDp5hPJOOrJBX9HqHOOATt",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "5c01880f-161d-4987-8c2a-a3d7355bc6f9": {
+      "name": "bg_underwater_07_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/nlKh.1TrqEu2U_N6Zm2Vx5XUmRfunazM/category_backgrounds/bg_underwater_07.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nlKh.1TrqEu2U_N6Zm2Vx5XUmRfunazM",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "7d9acda3-19dd-4846-bb9a-cfce7b164f37": {
+      "name": "bg_underwater_13_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/.QiQ1bLkEkbAY3XX0dkNKD2mRrzQzCgN/category_backgrounds/bg_underwater_13.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": ".QiQ1bLkEkbAY3XX0dkNKD2mRrzQzCgN",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "a3d588c3-f7af-4ed1-85ba-337f34b04e46": {
+      "name": "fish_01_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/XMPMBS2lQ0s7C3cxq.j0JQ1ILAG86re7/category_animals/fish_01.png",
+      "frameSize": {
+        "x": 395,
+        "y": 319
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "XMPMBS2lQ0s7C3cxq.j0JQ1ILAG86re7",
+      "categories": [
+        "animals"
+      ]
+    },
+    "a7bd9742-87ef-4e83-bc9f-6c63e352c397": {
+      "name": "fish_02_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/o7ZSngD_faJBwg2ZOjVkisUbWSPBQSrm/category_animals/fish_02.png",
+      "frameSize": {
+        "x": 381,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "o7ZSngD_faJBwg2ZOjVkisUbWSPBQSrm",
+      "categories": [
+        "animals"
+      ]
+    },
+    "646df11e-f830-480e-a7cf-b3fcb7fdca8f": {
+      "name": "fish_03_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/JZ5wCkq_dQApn3Ri6Jrf16eFlsPJTkz3/category_animals/fish_03.png",
+      "frameSize": {
+        "x": 397,
+        "y": 236
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "JZ5wCkq_dQApn3Ri6Jrf16eFlsPJTkz3",
+      "categories": [
+        "animals"
+      ]
+    },
+    "9c128316-c37a-4924-a4a6-d854e583ab8f": {
+      "name": "fish_04_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/w4sFIn.KNxQ3BPS2V8t8qGQgsNhXkMc5/category_animals/fish_04.png",
+      "frameSize": {
+        "x": 395,
+        "y": 335
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "w4sFIn.KNxQ3BPS2V8t8qGQgsNhXkMc5",
+      "categories": [
+        "animals"
+      ]
+    },
+    "45de35e8-57b7-4768-b23b-997fe40ff4ba": {
+      "name": "fish_05_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/WMk5oSAVWxFgWOwUZOLpSchh.AzheOdL/category_animals/fish_05.png",
+      "frameSize": {
+        "x": 392,
+        "y": 220
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "WMk5oSAVWxFgWOwUZOLpSchh.AzheOdL",
+      "categories": [
+        "animals"
+      ]
+    },
+    "0267f188-8a6b-4155-8b44-08fef7fa6abf": {
+      "name": "fish_06_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/oitP3B6sJROj4Wzv4jkfuGUXFK3WhDOa/category_animals/fish_06.png",
+      "frameSize": {
+        "x": 396,
+        "y": 336
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "oitP3B6sJROj4Wzv4jkfuGUXFK3WhDOa",
+      "categories": [
+        "animals"
+      ]
+    },
+    "f7beee58-63ab-4006-804f-a60f61f74060": {
+      "name": "eel_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/0PZi3XNknHs2XR24.xA.WV34iO_nBq90/category_animals/eel.png",
+      "frameSize": {
+        "x": 398,
+        "y": 222
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "0PZi3XNknHs2XR24.xA.WV34iO_nBq90",
+      "categories": [
+        "animals"
+      ]
+    },
+    "2b686e60-fd6a-4796-bb75-2201e1e24394": {
+      "name": "crab2_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/TwfhSb9Mrd7cO1Iy7KKORTp4rNWtdLKn/category_animals/crab2.png",
+      "frameSize": {
+        "x": 393,
+        "y": 240
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "TwfhSb9Mrd7cO1Iy7KKORTp4rNWtdLKn",
+      "categories": [
+        "animals"
+      ]
+    },
+    "19a3232a-d6dd-40ff-bbbd-242f51529fa3": {
+      "name": "hermitcrab_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/kEbHM9ag6gEt6_mubQvtydhFXJKBcP50/category_animals/hermitcrab.png",
+      "frameSize": {
+        "x": 399,
+        "y": 387
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "kEbHM9ag6gEt6_mubQvtydhFXJKBcP50",
+      "categories": [
+        "animals"
+      ]
+    },
+    "38794a3e-6c12-468a-a01e-40f0c87fda18": {
+      "name": "seaturtle_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/uBEJfTvpOHwW8LHY9f1sbcQhPJ0Fzo35/category_animals/seaturtle.png",
+      "frameSize": {
+        "x": 393,
+        "y": 248
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "uBEJfTvpOHwW8LHY9f1sbcQhPJ0Fzo35",
+      "categories": [
+        "animals"
+      ]
+    },
+    "0f8704cc-1c54-4f2e-882e-4e34e7f21cac": {
+      "name": "ship_02_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/8bDxkKcLewp47f8FJX5ZnxQWE9tV5PG7/category_vehicles/ship_02.png",
+      "frameSize": {
+        "x": 376,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "8bDxkKcLewp47f8FJX5ZnxQWE9tV5PG7",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "18d85e9e-a419-4cf5-bf7a-e8cc3037b005": {
+      "name": "ship_03_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/Sg1jGmj2m99jSXFZrV_VTVULgWnBe91Q/category_vehicles/ship_03.png",
+      "frameSize": {
+        "x": 376,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Sg1jGmj2m99jSXFZrV_VTVULgWnBe91Q",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "b8e072de-a769-4601-baed-d4b4efe1183f": {
+      "name": "shell_01_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/5CUYBGXNcI0Kmoz7MTCJejm7EgWoi.XI/category_aquatic_objects/shell_01.png",
+      "frameSize": {
+        "x": 398,
+        "y": 317
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "5CUYBGXNcI0Kmoz7MTCJejm7EgWoi.XI",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "0e346a8a-6ceb-42fa-96d5-132cd174629b": {
+      "name": "shell_02_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/Srw5fN1JB9psG2ZSNSqUzotg0Z4EyBuk/category_aquatic_objects/shell_02.png",
+      "frameSize": {
+        "x": 395,
+        "y": 398
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Srw5fN1JB9psG2ZSNSqUzotg0Z4EyBuk",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "06802868-1eab-40c0-a137-c2f6f38b6fdf": {
+      "name": "shell_09_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/OjjM31PBygHtZqJBGfSDPp.sJLiYT8AB/category_aquatic_objects/shell_09.png",
+      "frameSize": {
+        "x": 400,
+        "y": 250
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "OjjM31PBygHtZqJBGfSDPp.sJLiYT8AB",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "e0eeeda0-53ca-4e8b-aff5-93b22a5c53fc": {
+      "name": "underseadeco_24_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/Bd1hjqkSyyr858PiVpWTHpNiCsaSgcmt/category_aquatic_objects/underseadeco_24.png",
+      "frameSize": {
+        "x": 301,
+        "y": 397
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Bd1hjqkSyyr858PiVpWTHpNiCsaSgcmt",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "aa4a2a0a-2fba-4922-b480-b15382fcb1f8": {
+      "name": "underseadeco_34_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/Tg6pkoXeUY6lKaTqg_jOYPKkj3ys3YOD/category_aquatic_objects/underseadeco_34.png",
+      "frameSize": {
+        "x": 280,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Tg6pkoXeUY6lKaTqg_jOYPKkj3ys3YOD",
+      "categories": [
+        "aquatic_objects"
+      ]
+    }
+  }
+}
