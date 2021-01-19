@@ -1,0 +1,54 @@
+{
+  "orderedKeys": [
+    "2229749d-7e8b-4ed4-826d-5097c8ae2f15",
+    "c86a74eb-dffb-4159-83ef-d85329fa8b71",
+    "0fa10347-1c78-4a6f-8956-67e126ea9f5a"
+  ],
+  "propsByKey": {
+    "2229749d-7e8b-4ed4-826d-5097c8ae2f15": {
+      "name": "bg_landscape10_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/bd70yXmt3QhSWOcEF8grNZiWfnsKW4d8/category_backgrounds/bg_landscape10.png",
+      "frameSize": {
+        "x": 400,
+        "y": 385
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "bd70yXmt3QhSWOcEF8grNZiWfnsKW4d8",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "c86a74eb-dffb-4159-83ef-d85329fa8b71": {
+      "name": "ship_02_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/8bDxkKcLewp47f8FJX5ZnxQWE9tV5PG7/category_vehicles/ship_02.png",
+      "frameSize": {
+        "x": 376,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "8bDxkKcLewp47f8FJX5ZnxQWE9tV5PG7",
+      "categories": [
+        "vehicles"
+      ]
+    },
+    "0fa10347-1c78-4a6f-8956-67e126ea9f5a": {
+      "name": "ship_03_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/Sg1jGmj2m99jSXFZrV_VTVULgWnBe91Q/category_vehicles/ship_03.png",
+      "frameSize": {
+        "x": 376,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Sg1jGmj2m99jSXFZrV_VTVULgWnBe91Q",
+      "categories": [
+        "vehicles"
+      ]
+    }
+  }
+}
