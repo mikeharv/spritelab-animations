@@ -1,0 +1,22 @@
+{
+  "orderedKeys": [
+    "71fff66b-80f4-4dc6-bc44-6a38cfe90db3"
+  ],
+  "propsByKey": {
+    "71fff66b-80f4-4dc6-bc44-6a38cfe90db3": {
+      "name": "soccer_bw_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/KAKckB.0WJDP55kNGzIZIfW5wf7Rk5mG/category_sports/soccer_bw.png",
+      "frameSize": {
+        "x": 393,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "KAKckB.0WJDP55kNGzIZIfW5wf7Rk5mG",
+      "categories": [
+        "sports"
+      ]
+    }
+  }
+}
