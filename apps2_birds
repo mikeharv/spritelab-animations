@@ -1,0 +1,61 @@
+{
+  "orderedKeys": [
+    "fcacfd91-7e31-4dc2-9c03-bec7509597ea",
+    "88bf8da0-1dbb-467c-9ca3-09a527cfb30b",
+    "fc02c922-04ce-4e0f-87e6-21b4dcf76bbd",
+    "35c8db35-4a60-49ba-b4ef-68a76a0c51d1"
+  ],
+  "propsByKey": {
+     "fcacfd91-7e31-4dc2-9c03-bec7509597ea": {
+      "name": "sun_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/IvHiDqiV7OW3PyfEoWKFT3KKBjVoPJRU/category_characters/sun.png",
+      "frameSize": {
+        "x": 150,
+        "y": 150
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "IvHiDqiV7OW3PyfEoWKFT3KKBjVoPJRU",
+      "categories": [
+        "characters"
+      ]
+    },
+    "88bf8da0-1dbb-467c-9ca3-09a527cfb30b": {
+      "name": "animation_131",
+      "sourceUrl": "https://levelbuilder-studio.code.org/v3/animations/1RRbQb61l_JBqGL9cptiyA/88bf8da0-1dbb-467c-9ca3-09a527cfb30b.png?version=mYCgpMTsOxTMaouXC5JlVoZLR4mz61tv",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 12,
+      "version": "mYCgpMTsOxTMaouXC5JlVoZLR4mz61tv"
+    },
+    "fc02c922-04ce-4e0f-87e6-21b4dcf76bbd": {
+      "name": "animation_7",
+      "sourceUrl": "https://levelbuilder-studio.code.org/v3/animations/1RRbQb61l_JBqGL9cptiyA/fc02c922-04ce-4e0f-87e6-21b4dcf76bbd.png?version=ECOjKFg3eB4fri0Y8foJRLQaYFRA8_6o",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 12,
+      "version": "ECOjKFg3eB4fri0Y8foJRLQaYFRA8_6o"
+    },
+    "35c8db35-4a60-49ba-b4ef-68a76a0c51d1": {
+      "name": "animation_6",
+      "sourceUrl": "https://levelbuilder-studio.code.org/v3/animations/1RRbQb61l_JBqGL9cptiyA/35c8db35-4a60-49ba-b4ef-68a76a0c51d1.png?version=U6C4R6w2iUoG7sT0VzM2wrizNfC7ggfQ",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 12,
+      "version": "U6C4R6w2iUoG7sT0VzM2wrizNfC7ggfQ"
+    }
+  }
+}
