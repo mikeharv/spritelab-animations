@@ -1,0 +1,38 @@
+{
+  "orderedKeys": [
+    "080c4671-bc46-4a05-859a-ab082a1e8fd4",
+    "d521fbc3-4ac0-4b28-a3ab-acb41b62a9f2"
+  ],
+  "propsByKey": {
+    "080c4671-bc46-4a05-859a-ab082a1e8fd4": {
+      "name": "robot_25_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/m_QwsHi9Ca23mKDRNmKyStW4_Jav0Xs6/category_robots/robot_25.png",
+      "frameSize": {
+        "x": 332,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "m_QwsHi9Ca23mKDRNmKyStW4_Jav0Xs6",
+      "categories": [
+        "robots"
+      ]
+    },
+    "d521fbc3-4ac0-4b28-a3ab-acb41b62a9f2": {
+      "name": "grid_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/gamelab/6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr/category_backgrounds/background_grid.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
