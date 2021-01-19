@@ -1,0 +1,70 @@
+{
+  "orderedKeys": [
+    "c0267d3c-fdb0-4e10-82e4-3a7a6d199329",
+    "1e8d77a4-943a-4c75-bb42-48de1f44c660",
+    "7a9088bc-bb95-4023-aa63-39bddb23fc1f",
+    "793af5c3-ff19-441b-99f5-a53c6031e8ac"
+  ],
+  "propsByKey": {
+    "c0267d3c-fdb0-4e10-82e4-3a7a6d199329": {
+      "name": "sun_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/knVkn0PWAe33ZGmZASkzXLBnj1H6j5H4/category_icons/sun.png",
+      "frameSize": {
+        "x": 391,
+        "y": 390
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "knVkn0PWAe33ZGmZASkzXLBnj1H6j5H4",
+      "categories": [
+        "icons"
+      ]
+    },
+    "1e8d77a4-943a-4c75-bb42-48de1f44c660": {
+      "name": "cloud_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/SFSiRCSKpY8XgbZ8r02qMYlqqmsdNbrh/category_icons/cloud.png",
+      "frameSize": {
+        "x": 386,
+        "y": 268
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "SFSiRCSKpY8XgbZ8r02qMYlqqmsdNbrh",
+      "categories": [
+        "icons"
+      ]
+    },
+    "7a9088bc-bb95-4023-aa63-39bddb23fc1f": {
+      "name": "butterfly_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/MN._ebIYGmNQMTED9ssZ2vZU03kNOUvp/category_icons/butterfly.png",
+      "frameSize": {
+        "x": 398,
+        "y": 350
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "MN._ebIYGmNQMTED9ssZ2vZU03kNOUvp",
+      "categories": [
+        "icons"
+      ]
+    },
+    "793af5c3-ff19-441b-99f5-a53c6031e8ac": {
+      "name": "continuous_grass_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/bzBzwUgBEeqWUbNBmcmnl1egMrpmBw3o/category_backgrounds/continuous_grass.png",
+      "frameSize": {
+        "x": 800,
+        "y": 398
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "bzBzwUgBEeqWUbNBmcmnl1egMrpmBw3o",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
