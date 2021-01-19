@@ -1,0 +1,54 @@
+{
+  "orderedKeys": [
+    "3b3a5cea-1180-4bdf-804f-843f9452e2ed",
+    "584991c6-2269-4911-b506-56b272179da7",
+    "6fcf70fa-ca10-421e-92fd-9ac06fcf8eab"
+  ],
+  "propsByKey": {
+    "3b3a5cea-1180-4bdf-804f-843f9452e2ed": {
+      "name": "face_banana_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/media?u=https%3A%2F%2Fstudio.code.org%2Fapi%2Fv1%2Fanimation-library%2Fgamelab%2FpWFbbj15zL1DL.xT.w9LmvN_ZdtcMo_W%2Fcategory_food%2Fface_banana.png",
+      "frameSize": {
+        "x": 264,
+        "y": 397
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pWFbbj15zL1DL.xT.w9LmvN_ZdtcMo_W",
+      "categories": [
+        "food"
+      ]
+    },
+    "584991c6-2269-4911-b506-56b272179da7": {
+      "name": "face_strawberry_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/media?u=https%3A%2F%2Fstudio.code.org%2Fapi%2Fv1%2Fanimation-library%2Fgamelab%2F2O84JtbnWjil7f2R0oUqvFTRHnFaGCIw%2Fcategory_food%2Fface_strawberry.png",
+      "frameSize": {
+        "x": 310,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "2O84JtbnWjil7f2R0oUqvFTRHnFaGCIw",
+      "categories": [
+        "food"
+      ]
+    },
+    "6fcf70fa-ca10-421e-92fd-9ac06fcf8eab": {
+      "name": "gradient_01_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/media?u=https%3A%2F%2Fstudio.code.org%2Fapi%2Fv1%2Fanimation-library%2Fgamelab%2FUXLibXLPPb5ofYkbGpXPPKBf.txNOBHP%2Fcategory_backgrounds%2Fgradient_01.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "UXLibXLPPb5ofYkbGpXPPKBf.txNOBHP",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
