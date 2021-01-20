@@ -1,0 +1,86 @@
+{
+  "orderedKeys": [
+    "be20bf65-7d12-426a-bb7f-651c49e3aba5",
+    "e6fc5711-193a-4d88-98eb-54226b7c64a9",
+    "588718d7-f99b-4bd9-87b3-d618db1d8fe4",
+    "f9b057b6-5da9-422b-b02e-819e25cb4eb6",
+    "b239a7fe-673f-461c-a959-489bb2524c0f"
+  ],
+  "propsByKey": {
+    "be20bf65-7d12-426a-bb7f-651c49e3aba5": {
+      "name": "creature_08_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/3i8sVfGbKvGWgod3wfkhWrM1qOaZb_uY/category_animals/creature_08.png",
+      "frameSize": {
+        "x": 386,
+        "y": 374
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "3i8sVfGbKvGWgod3wfkhWrM1qOaZb_uY",
+      "categories": [
+        "animals"
+      ]
+    },
+    "e6fc5711-193a-4d88-98eb-54226b7c64a9": {
+      "name": "creature_10_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/0mBdF4CIKQ1gd.o4ue064YJMj_2gN4Aq/category_animals/creature_10.png",
+      "frameSize": {
+        "x": 185,
+        "y": 393
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "0mBdF4CIKQ1gd.o4ue064YJMj_2gN4Aq",
+      "categories": [
+        "animals"
+      ]
+    },
+    "588718d7-f99b-4bd9-87b3-d618db1d8fe4": {
+      "name": "creature_18_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/8pCX3sJMxtF9qzAHW0FICAagMv3V3olK/category_animals/creature_18.png",
+      "frameSize": {
+        "x": 392,
+        "y": 398
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "8pCX3sJMxtF9qzAHW0FICAagMv3V3olK",
+      "categories": [
+        "animals"
+      ]
+    },
+    "f9b057b6-5da9-422b-b02e-819e25cb4eb6": {
+      "name": "grid_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr/category_backgrounds/background_grid.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "b239a7fe-673f-461c-a959-489bb2524c0f": {
+      "name": "gradient_34_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6/category_backgrounds/gradient_34.png",
+      "frameSize": {
+        "x": 400,
+        "y": 356
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
