@@ -1,13 +1,15 @@
 {
   "orderedKeys": [
-    "be20bf65-7d12-426a-bb7f-651c49e3aba5",
-    "e6fc5711-193a-4d88-98eb-54226b7c64a9",
-    "588718d7-f99b-4bd9-87b3-d618db1d8fe4",
-    "f9b057b6-5da9-422b-b02e-819e25cb4eb6",
-    "b239a7fe-673f-461c-a959-489bb2524c0f"
+    "b9795ed5-ed47-4566-9290-2cf25a3dd4bc",
+    "63e7e4d4-157f-4ac9-a04f-0cdc32c20569",
+    "389a275a-9128-4d91-9d2a-810d6f3f9839",
+    "825ec5cd-5d2b-4cc1-be49-f17026646109",
+    "cee64a42-74fa-440c-93ca-69cd0553e6a0",
+    "d46550b9-69a8-4a3d-bf81-aff22cd28c48",
+    "0fad34d3-7197-4088-9502-5dcc7375d87d"
   ],
   "propsByKey": {
-    "be20bf65-7d12-426a-bb7f-651c49e3aba5": {
+    "b9795ed5-ed47-4566-9290-2cf25a3dd4bc": {
       "name": "creature_08_1",
       "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/3i8sVfGbKvGWgod3wfkhWrM1qOaZb_uY/category_animals/creature_08.png",
       "frameSize": {
@@ -22,7 +24,7 @@
         "animals"
       ]
     },
-    "e6fc5711-193a-4d88-98eb-54226b7c64a9": {
+    "63e7e4d4-157f-4ac9-a04f-0cdc32c20569": {
       "name": "creature_10_1",
       "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/0mBdF4CIKQ1gd.o4ue064YJMj_2gN4Aq/category_animals/creature_10.png",
       "frameSize": {
@@ -37,7 +39,22 @@
         "animals"
       ]
     },
-    "588718d7-f99b-4bd9-87b3-d618db1d8fe4": {
+    "389a275a-9128-4d91-9d2a-810d6f3f9839": {
+      "name": "creature_12_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/v7.OjmBoz3EG0WY6IdxsL8krM5naIN3R/category_animals/creature_12.png",
+      "frameSize": {
+        "x": 396,
+        "y": 265
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "v7.OjmBoz3EG0WY6IdxsL8krM5naIN3R",
+      "categories": [
+        "animals"
+      ]
+    },
+    "825ec5cd-5d2b-4cc1-be49-f17026646109": {
       "name": "creature_18_1",
       "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/8pCX3sJMxtF9qzAHW0FICAagMv3V3olK/category_animals/creature_18.png",
       "frameSize": {
@@ -52,7 +69,22 @@
         "animals"
       ]
     },
-    "f9b057b6-5da9-422b-b02e-819e25cb4eb6": {
+    "cee64a42-74fa-440c-93ca-69cd0553e6a0": {
+      "name": "gradient_34_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6/category_backgrounds/gradient_34.png",
+      "frameSize": {
+        "x": 400,
+        "y": 356
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "d46550b9-69a8-4a3d-bf81-aff22cd28c48": {
       "name": "grid_1",
       "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/6udB34wA0EBLf0wwVkEWGCKKSjt5rRRr/category_backgrounds/background_grid.png",
       "frameSize": {
@@ -67,17 +99,17 @@
         "backgrounds"
       ]
     },
-    "b239a7fe-673f-461c-a959-489bb2524c0f": {
-      "name": "gradient_34_1",
-      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6/category_backgrounds/gradient_34.png",
+    "0fad34d3-7197-4088-9502-5dcc7375d87d": {
+      "name": "gradient_26_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/BDdWjZHPKhFwodpIrtl.5OwB5pUxbWwA/category_backgrounds/gradient_26.png",
       "frameSize": {
         "x": 400,
-        "y": 356
+        "y": 287
       },
       "frameCount": 1,
       "looping": true,
       "frameDelay": 2,
-      "version": "pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6",
+      "version": "BDdWjZHPKhFwodpIrtl.5OwB5pUxbWwA",
       "categories": [
         "backgrounds"
       ]
