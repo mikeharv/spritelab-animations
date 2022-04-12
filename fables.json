@@ -1,1 +1,72 @@
-
+{
+  "orderedKeys": [
+    "fb87a2d0-8daf-472d-b467-2eb3f28a026f",
+    "4909c937-76f1-4510-9eb9-85cf0ae434f9",
+    "b047e885-13fd-46ba-8f84-c6e0e8a6d38e"
+  ],
+  "propsByKey": {
+    "b047e885-13fd-46ba-8f84-c6e0e8a6d38e": {
+      "name": "night-meadow",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:16:12.000Z",
+      "pngLastModified": "2022-04-11T21:16:12.000Z",
+      "version": "KxJMy2ie64IP__levE3O1zBnSH.Ukh3a",
+      "sourceUrl": "/api/v1/animation-library/level_animations/KxJMy2ie64IP__levE3O1zBnSH.Ukh3a/night-meadow.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "4909c937-76f1-4510-9eb9-85cf0ae434f9": {
+      "name": "disguised-wolf",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 270
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:15:30.000Z",
+      "pngLastModified": "2022-04-11T21:51:51.000Z",
+      "version": "EAjdYvRNxyEuZByv3TLmZhy9uf0xCqHr",
+      "sourceUrl": "/api/v1/animation-library/level_animations/EAjdYvRNxyEuZByv3TLmZhy9uf0xCqHr/disguised-wolf.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 270
+      }
+    },
+    "fb87a2d0-8daf-472d-b467-2eb3f28a026f": {
+      "name": "girl-with-cane",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 244,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:15:56.000Z",
+      "pngLastModified": "2022-04-11T21:15:56.000Z",
+      "version": "Lty1aALa2fcAnpCSNYSnCV0k55yyyZUe",
+      "sourceUrl": "/api/v1/animation-library/level_animations/Lty1aALa2fcAnpCSNYSnCV0k55yyyZUe/girl-with-cane.png",
+      "sourceSize": {
+        "x": 244,
+        "y": 400
+      }
+    }
+  }
+}
