@@ -1,1 +1,424 @@
-
+{
+  "orderedKeys": [
+    "b3fdc824-478d-4da4-8d30-d4b9134ab81a",
+    "9cf7f79e-06c1-4881-a50d-51a8f18585d3",
+    "e6da45fd-d57e-45d5-a747-8a97b4130a0d",
+    "563c2f2e-6a15-4709-bfaa-bc7ba8381943",
+    "7e8be9c1-a743-497a-bd97-15ad04a332ff",
+    "9d696910-dd68-4c05-954d-8c4f8ea318b9",
+    "d81715c9-7751-4508-8a93-d97e8d4d8dde",
+    "e37b4c7f-76a4-4e4f-aa09-3b0f657cdff8",
+    "20bd874c-5234-4164-a269-ecd3f107634c",
+    "6614c164-807d-4742-8c26-c7c45c2fbba6",
+    "8f2accbd-ca34-41c8-b34a-87f637e565cf",
+    "9e7d8138-51a1-432e-be76-4bfd1baf478b",
+    "fde4028e-64be-411b-af7b-88b81a097371",
+    "0751cbf1-d4c3-4f34-a36c-860e3aa7a61e",
+    "8b1a214c-4596-46a9-b320-8ad95a180e1e",
+    "84324e36-1790-499f-9a39-6665d90cbaee",
+    "a523490e-9d8f-49ef-b673-a7a381451c5a",
+    "5ece0381-4386-425d-84ec-1b626141c7a4",
+    "ca474485-68c7-4d0e-9842-09a50590910f"
+  ],
+  "propsByKey": {
+    "ca474485-68c7-4d0e-9842-09a50590910f": {
+      "name": "blue-sea-plant",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 278,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:00:03.000Z",
+      "pngLastModified": "2022-04-11T21:00:02.000Z",
+      "version": "0q3iSVo2tK74YWQTSHhC9VXfCy5odZ6m",
+      "sourceUrl": "/api/v1/animation-library/level_animations/0q3iSVo2tK74YWQTSHhC9VXfCy5odZ6m/blue-sea-plant.png",
+      "sourceSize": {
+        "x": 278,
+        "y": 400
+      }
+    },
+    "5ece0381-4386-425d-84ec-1b626141c7a4": {
+      "name": "green-sea-plant-1",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 222,
+        "y": 398
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:02:40.000Z",
+      "pngLastModified": "2022-04-11T21:02:40.000Z",
+      "version": "5UaBERupfK70P2GbvyfCaEiZ8oAM3ot7",
+      "sourceUrl": "/api/v1/animation-library/level_animations/5UaBERupfK70P2GbvyfCaEiZ8oAM3ot7/green-sea-plant-1.png",
+      "sourceSize": {
+        "x": 222,
+        "y": 398
+      }
+    },
+    "a523490e-9d8f-49ef-b673-a7a381451c5a": {
+      "name": "green-sea-plant-2",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 360,
+        "y": 390
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:02:50.000Z",
+      "pngLastModified": "2022-04-11T21:02:50.000Z",
+      "version": "5b9IyVs3kjEFG_er_OO9IkBNGtw1AtpA",
+      "sourceUrl": "/api/v1/animation-library/level_animations/5b9IyVs3kjEFG_er_OO9IkBNGtw1AtpA/green-sea-plant-2.png",
+      "sourceSize": {
+        "x": 360,
+        "y": 390
+      }
+    },
+    "84324e36-1790-499f-9a39-6665d90cbaee": {
+      "name": "orange-sea-plant",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 242,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:04:55.000Z",
+      "pngLastModified": "2022-04-11T21:04:55.000Z",
+      "version": "GLPdpR2SIB25ofkxyhtXFrEVQtZCCxY7",
+      "sourceUrl": "/api/v1/animation-library/level_animations/GLPdpR2SIB25ofkxyhtXFrEVQtZCCxY7/orange-sea-plant.png",
+      "sourceSize": {
+        "x": 242,
+        "y": 400
+      }
+    },
+    "8b1a214c-4596-46a9-b320-8ad95a180e1e": {
+      "name": "pink-sea-plant",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 399,
+        "y": 399
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:05:10.000Z",
+      "pngLastModified": "2022-04-11T21:05:09.000Z",
+      "version": "VRn.0VNRlCruYb4esQ6pvMB1GOEBnrka",
+      "sourceUrl": "/api/v1/animation-library/level_animations/VRn.0VNRlCruYb4esQ6pvMB1GOEBnrka/pink-sea-plant.png",
+      "sourceSize": {
+        "x": 399,
+        "y": 399
+      }
+    },
+    "0751cbf1-d4c3-4f34-a36c-860e3aa7a61e": {
+      "name": "whale-1",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 189
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:06:40.000Z",
+      "pngLastModified": "2022-04-11T21:06:40.000Z",
+      "version": "zCc7IogcbHrLkIfF5CaSY.h8DKLxZnBW",
+      "sourceUrl": "/api/v1/animation-library/level_animations/zCc7IogcbHrLkIfF5CaSY.h8DKLxZnBW/whale-1.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 189
+      }
+    },
+    "fde4028e-64be-411b-af7b-88b81a097371": {
+      "name": "whale-2",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 399,
+        "y": 206
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:06:48.000Z",
+      "pngLastModified": "2022-04-11T21:51:52.000Z",
+      "version": "DOr.1isxiuNvBCt0xzcGEiUMTjDbfv09",
+      "sourceUrl": "/api/v1/animation-library/level_animations/DOr.1isxiuNvBCt0xzcGEiUMTjDbfv09/whale-2.png",
+      "sourceSize": {
+        "x": 399,
+        "y": 206
+      }
+    },
+    "9e7d8138-51a1-432e-be76-4bfd1baf478b": {
+      "name": "whale-3",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 154
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:06:58.000Z",
+      "pngLastModified": "2022-04-11T21:06:58.000Z",
+      "version": "4DuJQiXzkWVs45hHNeqV2aiguNvwhajY",
+      "sourceUrl": "/api/v1/animation-library/level_animations/4DuJQiXzkWVs45hHNeqV2aiguNvwhajY/whale-3.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 154
+      }
+    },
+    "8f2accbd-ca34-41c8-b34a-87f637e565cf": {
+      "name": "whale-4",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 183
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:07:06.000Z",
+      "pngLastModified": "2022-04-11T21:51:52.000Z",
+      "version": "wr20GPxFd_WZI5F.9pBP2vHXHUpUrhak",
+      "sourceUrl": "/api/v1/animation-library/level_animations/wr20GPxFd_WZI5F.9pBP2vHXHUpUrhak/whale-4.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 183
+      }
+    },
+    "6614c164-807d-4742-8c26-c7c45c2fbba6": {
+      "name": "deer",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 275,
+        "y": 399
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:00:43.000Z",
+      "pngLastModified": "2022-04-11T21:00:42.000Z",
+      "version": "uaWzC7hg7t.05OYceaBaLseRWrvW0Kkv",
+      "sourceUrl": "/api/v1/animation-library/level_animations/uaWzC7hg7t.05OYceaBaLseRWrvW0Kkv/deer.png",
+      "sourceSize": {
+        "x": 275,
+        "y": 399
+      }
+    },
+    "20bd874c-5234-4164-a269-ecd3f107634c": {
+      "name": "fox",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 367,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:02:14.000Z",
+      "pngLastModified": "2022-04-11T21:46:21.000Z",
+      "version": "Jy0XxgCWCEyHnkwxysW5sJO8Sa7UySBy",
+      "sourceUrl": "/api/v1/animation-library/level_animations/Jy0XxgCWCEyHnkwxysW5sJO8Sa7UySBy/fox.png",
+      "sourceSize": {
+        "x": 367,
+        "y": 400
+      }
+    },
+    "e37b4c7f-76a4-4e4f-aa09-3b0f657cdff8": {
+      "name": "owl",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 344,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:05:25.000Z",
+      "pngLastModified": "2022-04-11T21:05:25.000Z",
+      "version": "hbYqzEU0VNii.8tskuc9.eeKzqtjQ1oL",
+      "sourceUrl": "/api/v1/animation-library/level_animations/hbYqzEU0VNii.8tskuc9.eeKzqtjQ1oL/owl.png",
+      "sourceSize": {
+        "x": 344,
+        "y": 400
+      }
+    },
+    "d81715c9-7751-4508-8a93-d97e8d4d8dde": {
+      "name": "rabbit-1",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 189,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:05:55.000Z",
+      "pngLastModified": "2022-04-11T21:05:55.000Z",
+      "version": "1XYApA5QwtK9jbb5DTYD_O175Kx_dO5F",
+      "sourceUrl": "/api/v1/animation-library/level_animations/1XYApA5QwtK9jbb5DTYD_O175Kx_dO5F/rabbit-1.png",
+      "sourceSize": {
+        "x": 189,
+        "y": 400
+      }
+    },
+    "9d696910-dd68-4c05-954d-8c4f8ea318b9": {
+      "name": "squirrel",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 391,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:06:24.000Z",
+      "pngLastModified": "2022-04-11T21:51:51.000Z",
+      "version": "Q.l9yGDUXvrjJEasF4Z0QBYXu2US_lJS",
+      "sourceUrl": "/api/v1/animation-library/level_animations/Q.l9yGDUXvrjJEasF4Z0QBYXu2US_lJS/squirrel.png",
+      "sourceSize": {
+        "x": 391,
+        "y": 400
+      }
+    },
+    "e6da45fd-d57e-45d5-a747-8a97b4130a0d": {
+      "name": "desert",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:01:36.000Z",
+      "pngLastModified": "2022-04-11T21:01:36.000Z",
+      "version": "Yh15jDhuuZz8tUVr8WPGgk30OPrIpaJN",
+      "sourceUrl": "/api/v1/animation-library/level_animations/Yh15jDhuuZz8tUVr8WPGgk30OPrIpaJN/desert.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "9cf7f79e-06c1-4881-a50d-51a8f18585d3": {
+      "name": "forest",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:01:53.000Z",
+      "pngLastModified": "2022-04-11T21:01:53.000Z",
+      "version": "Y7raWTqnv9VZrTGiQBsu8ukz_ofafQTH",
+      "sourceUrl": "/api/v1/animation-library/level_animations/Y7raWTqnv9VZrTGiQBsu8ukz_ofafQTH/forest.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "b3fdc824-478d-4da4-8d30-d4b9134ab81a": {
+      "name": "meadow",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:04:03.000Z",
+      "pngLastModified": "2022-04-11T21:04:02.000Z",
+      "version": "CB1PYdRlycVjbBIg9tk9rpAeiKAp3bEN",
+      "sourceUrl": "/api/v1/animation-library/level_animations/CB1PYdRlycVjbBIg9tk9rpAeiKAp3bEN/meadow.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "7e8be9c1-a743-497a-bd97-15ad04a332ff": {
+      "name": "world-map",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:04:30.000Z",
+      "pngLastModified": "2022-04-11T21:04:30.000Z",
+      "version": "j9QOdpWu.JzqROzGFFPd5pXDSbNOdgaG",
+      "sourceUrl": "/api/v1/animation-library/level_animations/j9QOdpWu.JzqROzGFFPd5pXDSbNOdgaG/world-map.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "563c2f2e-6a15-4709-bfaa-bc7ba8381943": {
+      "name": "world-map-targets",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:04:21.000Z",
+      "pngLastModified": "2022-04-11T21:04:21.000Z",
+      "version": "9eyAS4cXbFcXl5K3dRf4eYSkzUErjtzB",
+      "sourceUrl": "/api/v1/animation-library/level_animations/9eyAS4cXbFcXl5K3dRf4eYSkzUErjtzB/world-map-targets.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    }
+  }
+}
