@@ -1,1 +1,292 @@
-
+{
+  "orderedKeys": [
+    "ed714423-f956-4b62-8da0-e35744981c46",
+    "3962c0f6-eba1-4529-a188-09a6cf368ca6",
+    "744ccc9c-4f0f-4c96-8ebc-974716e48e6c",
+    "e4a25749-09b7-4ca7-a64f-62c88f92c7a3",
+    "029d27d3-cdbc-40ba-8fd0-ce3927132622",
+    "ae14e2a1-7f8c-4b7a-87a2-20b04fdee486",
+    "2e2a72f0-e4c0-46df-9e2a-2bc48cb94fe9",
+    "4b85f320-2568-4863-af32-6ff129577139",
+    "0ebd8b2a-4938-4cbd-a7e3-ff252872c77e",
+    "99af0572-9998-4d14-9db2-5384d0b0ccde",
+    "f1ac49e6-1f7e-4bd4-8f84-76595ae5ae7d",
+    "4d68ba32-9c12-4034-b9dc-fc856af14791",
+    "fbc1f805-a971-4abf-9d94-2cd3f104470a"
+  ],
+  "propsByKey": {
+    "fbc1f805-a971-4abf-9d94-2cd3f104470a": {
+      "name": "glowing-circle",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        "backgrounds"
+      ],
+      "jsonLastModified": "2022-04-11T21:16:55.000Z",
+      "pngLastModified": "2022-04-11T21:16:55.000Z",
+      "version": "iuK2j_7PcxlEiTzDpHjHB.BeZ36Gmo.7",
+      "sourceUrl": "/api/v1/animation-library/level_animations/iuK2j_7PcxlEiTzDpHjHB.BeZ36Gmo.7/glowing-circle.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "4d68ba32-9c12-4034-b9dc-fc856af14791": {
+      "name": "school",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:18:53.000Z",
+      "pngLastModified": "2022-04-11T21:18:53.000Z",
+      "version": "gyylz3Ib7jSd8QcFux7IbMyMrIZH56Sb",
+      "sourceUrl": "/api/v1/animation-library/level_animations/gyylz3Ib7jSd8QcFux7IbMyMrIZH56Sb/school.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 400
+      }
+    },
+    "f1ac49e6-1f7e-4bd4-8f84-76595ae5ae7d": {
+      "name": "yoga-girl",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 332
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:20:08.000Z",
+      "pngLastModified": "2022-04-11T21:20:08.000Z",
+      "version": "NJHJKt2vu79YCuO98uvczMg8pHAcQTkX",
+      "sourceUrl": "/api/v1/animation-library/level_animations/NJHJKt2vu79YCuO98uvczMg8pHAcQTkX/yoga-girl.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 332
+      }
+    },
+    "99af0572-9998-4d14-9db2-5384d0b0ccde": {
+      "name": "weights-guy",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 272,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:19:34.000Z",
+      "pngLastModified": "2022-04-11T21:19:34.000Z",
+      "version": "TRX5lwpPj_KWxdRtyKzlMP_s9eGn4Wi2",
+      "sourceUrl": "/api/v1/animation-library/level_animations/TRX5lwpPj_KWxdRtyKzlMP_s9eGn4Wi2/weights-guy.png",
+      "sourceSize": {
+        "x": 272,
+        "y": 400
+      }
+    },
+    "0ebd8b2a-4938-4cbd-a7e3-ff252872c77e": {
+      "name": "track-girl",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 292,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:19:50.000Z",
+      "pngLastModified": "2022-04-11T21:19:49.000Z",
+      "version": "hkOx9vsClDFOAH5Ppm4y4xUp5sR5H.NZ",
+      "sourceUrl": "/api/v1/animation-library/level_animations/hkOx9vsClDFOAH5Ppm4y4xUp5sR5H.NZ/track-girl.png",
+      "sourceSize": {
+        "x": 292,
+        "y": 400
+      }
+    },
+    "4b85f320-2568-4863-af32-6ff129577139": {
+      "name": "soccer-guy",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 371,
+        "y": 398
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:19:19.000Z",
+      "pngLastModified": "2022-04-11T21:19:19.000Z",
+      "version": "Al26TH54keaK3N5kp1Bdsk6U7EAUgrGy",
+      "sourceUrl": "/api/v1/animation-library/level_animations/Al26TH54keaK3N5kp1Bdsk6U7EAUgrGy/soccer-guy.png",
+      "sourceSize": {
+        "x": 371,
+        "y": 398
+      }
+    },
+    "2e2a72f0-e4c0-46df-9e2a-2bc48cb94fe9": {
+      "name": "karate-guy",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 353,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:18:42.000Z",
+      "pngLastModified": "2022-04-11T21:18:42.000Z",
+      "version": "bPRcbzgz.3rLmKPMkA1MCeukTNvLpkc6",
+      "sourceUrl": "/api/v1/animation-library/level_animations/bPRcbzgz.3rLmKPMkA1MCeukTNvLpkc6/karate-guy.png",
+      "sourceSize": {
+        "x": 353,
+        "y": 400
+      }
+    },
+    "ae14e2a1-7f8c-4b7a-87a2-20b04fdee486": {
+      "name": "iceskating-girl",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 216,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:18:23.000Z",
+      "pngLastModified": "2022-04-11T21:51:49.000Z",
+      "version": "xVJ0fFj.mFYmJ0YkfWH6A4ulst40UHs9",
+      "sourceUrl": "/api/v1/animation-library/level_animations/xVJ0fFj.mFYmJ0YkfWH6A4ulst40UHs9/iceskating-girl.png",
+      "sourceSize": {
+        "x": 216,
+        "y": 400
+      }
+    },
+    "029d27d3-cdbc-40ba-8fd0-ce3927132622": {
+      "name": "biking-guy",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 400,
+        "y": 367
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:17:13.000Z",
+      "pngLastModified": "2022-04-11T21:51:50.000Z",
+      "version": "c7XfZw2OsUqYv4wWqQKheRKPFjNHw9Pp",
+      "sourceUrl": "/api/v1/animation-library/level_animations/c7XfZw2OsUqYv4wWqQKheRKPFjNHw9Pp/biking-guy.png",
+      "sourceSize": {
+        "x": 400,
+        "y": 367
+      }
+    },
+    "e4a25749-09b7-4ca7-a64f-62c88f92c7a3": {
+      "name": "dancing-boy-1",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 213,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:17:34.000Z",
+      "pngLastModified": "2022-04-11T21:58:48.000Z",
+      "version": ".eLPEWM8WINBTALPHlPLJsqTMfBSKOfG",
+      "sourceUrl": "/api/v1/animation-library/level_animations/.eLPEWM8WINBTALPHlPLJsqTMfBSKOfG/dancing-boy-1.png",
+      "sourceSize": {
+        "x": 213,
+        "y": 400
+      }
+    },
+    "744ccc9c-4f0f-4c96-8ebc-974716e48e6c": {
+      "name": "dancing-girl-2",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 170,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:18:02.000Z",
+      "pngLastModified": "2022-04-11T21:18:01.000Z",
+      "version": "A00vrfQrfvtIqkTKcCYlFLCeiNReTHMK",
+      "sourceUrl": "/api/v1/animation-library/level_animations/A00vrfQrfvtIqkTKcCYlFLCeiNReTHMK/dancing-girl-2.png",
+      "sourceSize": {
+        "x": 170,
+        "y": 400
+      }
+    },
+    "3962c0f6-eba1-4529-a188-09a6cf368ca6": {
+      "name": "dancing-boy-2",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 220,
+        "y": 398
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:17:39.000Z",
+      "pngLastModified": "2022-04-11T21:17:39.000Z",
+      "version": "1raIdR7LySt6IaduGxcEWmarxFqYQfqs",
+      "sourceUrl": "/api/v1/animation-library/level_animations/1raIdR7LySt6IaduGxcEWmarxFqYQfqs/dancing-boy-2.png",
+      "sourceSize": {
+        "x": 220,
+        "y": 398
+      }
+    },
+    "ed714423-f956-4b62-8da0-e35744981c46": {
+      "name": "dancing-girl-1",
+      "frameCount": 1,
+      "frameSize": {
+        "x": 185,
+        "y": 400
+      },
+      "looping": true,
+      "frameDelay": 2,
+      "categories": [
+        ""
+      ],
+      "jsonLastModified": "2022-04-11T21:17:53.000Z",
+      "pngLastModified": "2022-04-11T21:51:50.000Z",
+      "version": "SmHNyemEryi9JOU5saN.a.9FkqL57YjH",
+      "sourceUrl": "/api/v1/animation-library/level_animations/SmHNyemEryi9JOU5saN.a.9FkqL57YjH/dancing-girl-1.png",
+      "sourceSize": {
+        "x": 185,
+        "y": 400
+      }
+    }
+  }
+}
