@@ -1,0 +1,549 @@
+{
+  "orderedKeys": [
+    "emoji-happy",
+    "emoji-wink",
+    "emoji-surprised",
+    "emoji-fright",
+    "emoji-sunglasses",
+    "the-horns",
+    "emoji-sleep",
+    "hand-clap",
+    "emoji-love",
+    "emoji-facepalm",
+    "emoji-laugh",
+    "thumbs-up",
+    "emoji-scared",
+    "hang-ten",
+    "emoji-devil",
+    "emoji-poo",
+    "emoji-frown",
+    "emoji-yum",
+    "emoji-shout",
+    "emoji-sob",
+    "emoji-mustache",
+    "finger-point",
+    "bg-default-disco",
+    "bg-rainbow-wave",
+    "bg-court",
+    "bg-texture-green",
+    "bg-abstract-blue",
+    "bg-abstract-pink",
+    "8bg-gradient-green",
+    "bg-gradient-pink",
+    "bg-gradient-red",
+    "bg-gradient-purple",
+    "bg-gradient-blue",
+    "bg-gradient-orange"
+  ],
+  "propsByKey": {
+    "emoji-happy": {
+      "name": "emoji_19_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/h_LF7PqnHba0BOlL85_9g6TgRHqzd_Lh/category_emoji/emoji_19.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "h_LF7PqnHba0BOlL85_9g6TgRHqzd_Lh",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-laugh": {
+      "name": "emoji_10_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/Apw5nGPd7roE1BLxSsq8O6sLbYKRjkN6/category_emoji/emoji_10.png",
+      "frameSize": {
+        "x": 318,
+        "y": 302
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Apw5nGPd7roE1BLxSsq8O6sLbYKRjkN6",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-frown": {
+      "name": "emoji_01_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/64UquKf.BELLAWoDPxffw7NAEorufIff/category_emoji/emoji_01.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "64UquKf.BELLAWoDPxffw7NAEorufIff",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-sleep": {
+      "name": "emoji_02_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/vaoNISiP9MB6aeAu5TySPtIBPDc9JMLV/category_emoji/emoji_02.png",
+      "frameSize": {
+        "x": 326,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "vaoNISiP9MB6aeAu5TySPtIBPDc9JMLV",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-yum": {
+      "name": "emoji_04_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/0RmqsWfCdwEeM9yHEyYWleWM8lEg3NkN/category_emoji/emoji_04.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "0RmqsWfCdwEeM9yHEyYWleWM8lEg3NkN",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-scared": {
+      "name": "emoji_05_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/NxaX3YQWiFYsZndIf9OBIPpFIhBaIPbd/category_emoji/emoji_05.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "NxaX3YQWiFYsZndIf9OBIPpFIhBaIPbd",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-surprised": {
+      "name": "emoji_06_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/_Xscg5fB95TRoOqlt3745W6Gucfq7NCS/category_emoji/emoji_06.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "_Xscg5fB95TRoOqlt3745W6Gucfq7NCS",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-shout": {
+      "name": "emoji_08_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pfqz473pmYcginA5msSC.2xMcbZ9RJ4D/category_emoji/emoji_08.png",
+      "frameSize": {
+        "x": 332,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pfqz473pmYcginA5msSC.2xMcbZ9RJ4D",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-mustache": {
+      "name": "emoji_11_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/5dfwGwvOHeRPpR_p8KVezuREARYyKasG/category_emoji/emoji_11.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "5dfwGwvOHeRPpR_p8KVezuREARYyKasG",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-sob": {
+      "name": "emoji_13_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/DB.IN47rPOaJyW6TvK0aaquA24aEXhVR/category_emoji/emoji_13.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "DB.IN47rPOaJyW6TvK0aaquA24aEXhVR",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-wink": {
+      "name": "emoji_14_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/dQITurXMceQ3DV3KwOgDwQcohVpN.3b3/category_emoji/emoji_14.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "dQITurXMceQ3DV3KwOgDwQcohVpN.3b3",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-sunglasses": {
+      "name": "emoji_16_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/LW3NVAYESDS18f5zmtSQbke0B78Bo_I2/category_emoji/emoji_16.png",
+      "frameSize": {
+        "x": 304,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "LW3NVAYESDS18f5zmtSQbke0B78Bo_I2",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-facepalm": {
+      "name": "emoji_17_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/qPyKRl45sAmb0toKrmso5hOxZmrDInhb/category_emoji/emoji_17.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "qPyKRl45sAmb0toKrmso5hOxZmrDInhb",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-love": {
+      "name": "emoji_18_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/3Ie77SBtMLM1Y2EaqoTH6vbcPmJ3kgku/category_emoji/emoji_18.png",
+      "frameSize": {
+        "x": 300,
+        "y": 300
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "3Ie77SBtMLM1Y2EaqoTH6vbcPmJ3kgku",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-fright": {
+      "name": "emoji_25_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/6qfPZk4zutXbD0DlBJByo2LCCLPWp7Bg/category_emoji/emoji_25.png",
+      "frameSize": {
+        "x": 300,
+        "y": 330
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "6qfPZk4zutXbD0DlBJByo2LCCLPWp7Bg",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-devil": {
+      "name": "emoji_26_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/GMAQuYTBESkvMxOSLy7vYpmZjN.0s9Za/category_emoji/emoji_26.png",
+      "frameSize": {
+        "x": 340,
+        "y": 312
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "GMAQuYTBESkvMxOSLy7vYpmZjN.0s9Za",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "emoji-poo": {
+      "name": "emoji_30_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/Y8AAycfT2G5io9ZP.BtaHco04KXwcVjJ/category_emoji/emoji_30.png",
+      "frameSize": {
+        "x": 354,
+        "y": 340
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Y8AAycfT2G5io9ZP.BtaHco04KXwcVjJ",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "hang-ten": {
+      "name": "emoji_32_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/Wth4v7o3n0I6Y.ftdGw4IwtzZ9SbxU3o/category_emoji/emoji_32.png",
+      "frameSize": {
+        "x": 344,
+        "y": 308
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Wth4v7o3n0I6Y.ftdGw4IwtzZ9SbxU3o",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "thumbs-up": {
+      "name": "emoji_33_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/sVdVt.E6my3YJGj92HsRTqfsZFbNDfoW/category_emoji/emoji_33.png",
+      "frameSize": {
+        "x": 261,
+        "y": 310
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "sVdVt.E6my3YJGj92HsRTqfsZFbNDfoW",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "finger-point": {
+      "name": "emoji_34_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/wKPBTDaF2WhnwuRDVLhdAv5T6.8GmF_W/category_emoji/emoji_34.png",
+      "frameSize": {
+        "x": 400,
+        "y": 312
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "wKPBTDaF2WhnwuRDVLhdAv5T6.8GmF_W",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "hand-clap": {
+      "name": "emoji_35_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/SRf0VZ3xP4XH6M4orgaGPD.NyCkXbSMb/category_emoji/emoji_35.png",
+      "frameSize": {
+        "x": 334,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "SRf0VZ3xP4XH6M4orgaGPD.NyCkXbSMb",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "the-horns": {
+      "name": "emoji_36_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/nMY2NPLCpQbjzDD3biB8XuI2ghFNX7e2/category_emoji/emoji_36.png",
+      "frameSize": {
+        "x": 316,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nMY2NPLCpQbjzDD3biB8XuI2ghFNX7e2",
+      "categories": [
+        "emoji"
+      ]
+    },
+    "bg-texture-green": {
+      "name": "texture_13_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/spritelab/kPitDc_GyhUsN4sH965Zp2D5A7PTWjA0/category_backgrounds/texture_13.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "kPitDc_GyhUsN4sH965Zp2D5A7PTWjA0",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-court": {
+      "name": "court_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/spritelab/DNsD9Ixj1NTj7XFmOF6N.cdvSQZAB4ny/category_backgrounds/background_court.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "DNsD9Ixj1NTj7XFmOF6N.cdvSQZAB4ny",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-rainbow-wave": {
+      "name": "rainbow_bright_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/spritelab/Hu0p4zpTnmX5EfRNZMvqM_hMHmk2u.IS/category_backgrounds/rainbow_bright.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Hu0p4zpTnmX5EfRNZMvqM_hMHmk2u.IS",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-default-disco": {
+      "name": "hw_disco_background_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/spritelab/nSWaA3q.nPxzY14p89Gz_Oezp_fcN31T/category_backgrounds/hw_disco_background.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nSWaA3q.nPxzY14p89Gz_Oezp_fcN31T",
+      "categories": [
+        "backgrounds"
+      ]
+    },"bg-abstract-blue": {
+      "name": "abstract_15_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/kpGIKirow4l3xRdN_BYD7pW3aVlfysex/category_backgrounds/abstract_15.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "kpGIKirow4l3xRdN_BYD7pW3aVlfysex",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-abstract-pink": {
+      "name": "abstract_16_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/OEa2gEbbvs2v84AZcjbUfOw_7tVqVKJr/category_backgrounds/abstract_16.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "OEa2gEbbvs2v84AZcjbUfOw_7tVqVKJr",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "8bg-gradient-green": {
+      "name": "gradient_13_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/RnFEWg6kwTHgLC2WCCLXYrgyTwZwwy5q/category_backgrounds/gradient_13.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "RnFEWg6kwTHgLC2WCCLXYrgyTwZwwy5q",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-pink": {
+      "name": "gradient_14_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/xk9FNA5fI7KifcH2.fXAvYJEzMQCjKsW/category_backgrounds/gradient_14.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "xk9FNA5fI7KifcH2.fXAvYJEzMQCjKsW",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-red": {
+      "name": "gradient_16_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/sqr396tdvMjlt_fEhgk4bcMTSRyLVShq/category_backgrounds/gradient_16.png",
+      "frameSize": {
+        "x": 400,
+        "y": 342
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "sqr396tdvMjlt_fEhgk4bcMTSRyLVShq",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-purple": {
+      "name": "gradient_17_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/0lJRolplCuorhSLCzhMPFOv9p2UaT61B/category_backgrounds/gradient_17.png",
+      "frameSize": {
+        "x": 400,
+        "y": 330
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "0lJRolplCuorhSLCzhMPFOv9p2UaT61B",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-blue": {
+      "name": "gradient_31_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/bV0x7r2rhSV.MriAceAMnppv0jBTOo_K/category_backgrounds/gradient_31.png",
+      "frameSize": {
+        "x": 400,
+        "y": 330
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "bV0x7r2rhSV.MriAceAMnppv0jBTOo_K",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-orange": {
+      "name": "gradient_34_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/gamelab/pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6/category_backgrounds/gradient_34.png",
+      "frameSize": {
+        "x": 400,
+        "y": 356
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "pJ1WpcsNaAEQs_xhFZjiZzRyeI_.n4y6",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
