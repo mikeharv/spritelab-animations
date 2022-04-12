@@ -1,0 +1,470 @@
+{
+  "orderedKeys": [
+    "green1",
+    "pink1",
+    "blue2",
+    "purple1",
+    "ship-red",
+    "blue1",
+    "heart-blue",
+    "ship-teal",
+    "pink2",
+    "purple2",
+    "burst",
+    "green2",
+    "ship-white",
+    "ship-purple",
+    "ship-green",
+    "ship-yellow",
+    "ship-white2",
+    "coin-yellow",
+    "coin-purple",
+    "heart-red",
+    "bg-default-pacman",
+    "bg-gradient-blue",
+    "bg-gradient-green",
+    "bg-gradient-pink",
+    "bg-gradient-yellow",
+    "bg-cave",
+    "bg-planet-classic",
+    "bg-planet-purple",
+    "bg-planet-orange"
+  ],
+  "propsByKey": {
+    "heart-red": {
+      "name": "retro_red_heart_1",
+      "sourceUrl": "/api/v1/animation-library/spritelab/2P3VkPW7mjtkD2_FPC9xtM5.du6hGwFX/category_retro/retro_red_heart.png",
+      "frameSize": {
+        "x": 167,
+        "y": 143
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "2P3VkPW7mjtkD2_FPC9xtM5.du6hGwFX",
+      "categories": [
+        "retro"
+      ]
+    },
+    "coin-purple": {
+      "name": "retro_powerup_coin_1",
+      "sourceUrl": "https://studio.code.org/api/v1/animation-library/spritelab/LNdi1Bl3KUFdClBtzJv8YiZ.ZvZHZOLq/category_retro/retro_powerup_coin.png",
+      "frameSize": {
+        "x": 352,
+        "y": 352
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "LNdi1Bl3KUFdClBtzJv8YiZ.ZvZHZOLq",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-yellow": {
+      "name": "retroship_15_1",
+      "sourceUrl": "/api/v1/animation-library/spritelab/3CjmHQ.Lq75Md9vZViECwuh9AVXdrsxD/category_retro/retroship_15.png",
+      "frameSize": {
+        "x": 385,
+        "y": 308
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "3CjmHQ.Lq75Md9vZViECwuh9AVXdrsxD",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-white2": {
+      "name": "spacebattle_03_1",
+      "sourceUrl": "/api/v1/animation-library/spritelab/P4uTjkl0MOpsUSo8ux5KSD13B6JjAGWf/category_retro/spacebattle_03.png",
+      "frameSize": {
+        "x": 260,
+        "y": 140
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "P4uTjkl0MOpsUSo8ux5KSD13B6JjAGWf",
+      "categories": [
+        "retro"
+      ]
+    },
+    "bg-default-pacman": {
+      "name": "hw_retro_background_1",
+      "sourceUrl": "/api/v1/animation-library/spritelab/sWiPMWPzRlwvF2T5isk27lDnXzCXBt7X/category_backgrounds/hw_retro_background.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "sWiPMWPzRlwvF2T5isk27lDnXzCXBt7X",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "green1": {
+      "name": "retrocreature_18",
+      "sourceUrl": "/api/v1/animation-library/gamelab/EwmTcHfXSWckxh8lnt67ueK2VKQHkNP7/category_retro/retrocreature_18.png",
+      "frameSize": {
+        "x": 332,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "EwmTcHfXSWckxh8lnt67ueK2VKQHkNP7",
+      "categories": [
+        "retro"
+      ]
+    },
+    "purple1": {
+      "name": "retrocreature_03",
+      "sourceUrl": "/api/v1/animation-library/gamelab/3OPR7fNp2GuC01rgoimtapzXeAYybc.O/category_retro/retrocreature_03.png",
+      "frameSize": {
+        "x": 398,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "3OPR7fNp2GuC01rgoimtapzXeAYybc.O",
+      "categories": [
+        "retro"
+      ]
+    },
+    "blue1": {
+      "name": "retrocreature_09",
+      "sourceUrl": "/api/v1/animation-library/gamelab/18DuQPEWssd3B8Nv7IAu2RYv1d92wMFq/category_retro/retrocreature_09.png",
+      "frameSize": {
+        "x": 332,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "18DuQPEWssd3B8Nv7IAu2RYv1d92wMFq",
+      "categories": [
+        "retro"
+      ]
+    },
+    "pink1": {
+      "name": "retrocreature_16",
+      "sourceUrl": "/api/v1/animation-library/gamelab/K9IIpH4zuNP8nrKUdHAWrMAoOxOoRo5F/category_retro/retrocreature_16.png",
+      "frameSize": {
+        "x": 365,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "K9IIpH4zuNP8nrKUdHAWrMAoOxOoRo5F",
+      "categories": [
+        "retro"
+      ]
+    },
+    "green2": {
+      "name": "retrocreature_11",
+      "sourceUrl": "/api/v1/animation-library/gamelab/zaTnIStazDSd4yfPFncm.5c6ya1zKT9a/category_retro/retrocreature_11.png",
+      "frameSize": {
+        "x": 332,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "zaTnIStazDSd4yfPFncm.5c6ya1zKT9a",
+      "categories": [
+        "retro"
+      ]
+    },
+    "purple2": {
+      "name": "retrocreature_20",
+      "sourceUrl": "/api/v1/animation-library/gamelab/yVdK6mSKgtCffa.HVc0fCFHqwZ2vvW5H/category_retro/retrocreature_20.png",
+      "frameSize": {
+        "x": 332,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "yVdK6mSKgtCffa.HVc0fCFHqwZ2vvW5H",
+      "categories": [
+        "retro"
+      ]
+    },
+    "blue2": {
+      "name": "retrocreature_02",
+      "sourceUrl": "/api/v1/animation-library/gamelab/7YOsuZqzqcoE9hNVUv7ser37VdJdD8Fe/category_retro/retrocreature_02.png",
+      "frameSize": {
+        "x": 332,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "7YOsuZqzqcoE9hNVUv7ser37VdJdD8Fe",
+      "categories": [
+        "retro"
+      ]
+    },
+    "pink2": {
+      "name": "retrocreature_07",
+      "sourceUrl": "/api/v1/animation-library/gamelab/buWKgi9MW28_9kaKJ1h3L.yr8_VGhuKY/category_retro/retrocreature_07.png",
+      "frameSize": {
+        "x": 332,
+        "y": 365
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "buWKgi9MW28_9kaKJ1h3L.yr8_VGhuKY",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-teal": {
+      "name": "retroship_21",
+      "sourceUrl": "/api/v1/animation-library/gamelab/1V75Vfoe.RrGZRMPR7RJKGTzrbR4gG_4/category_retro/retroship_21.png",
+      "frameSize": {
+        "x": 283,
+        "y": 308
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "1V75Vfoe.RrGZRMPR7RJKGTzrbR4gG_4",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-purple": {
+      "name": "retroship_16",
+      "sourceUrl": "/api/v1/animation-library/gamelab/vx5XYxUHikircF6n48GPQ6LwOQ37TeSR/category_retro/retroship_16.png",
+      "frameSize": {
+        "x": 334,
+        "y": 308
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "vx5XYxUHikircF6n48GPQ6LwOQ37TeSR",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-green": {
+      "name": "retroship_10",
+      "sourceUrl": "/api/v1/animation-library/gamelab/qVWwtdZZ5WwJ0LhpWaBWoiV_4WJJoblx/category_retro/retroship_10.png",
+      "frameSize": {
+        "x": 283,
+        "y": 386
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "qVWwtdZZ5WwJ0LhpWaBWoiV_4WJJoblx",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-red": {
+      "name": "retroship_13",
+      "sourceUrl": "/api/v1/animation-library/gamelab/Ne_Exd13wIXMaZMlMRodwiIjvSGER29Q/category_retro/retroship_13.png",
+      "frameSize": {
+        "x": 392,
+        "y": 392
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Ne_Exd13wIXMaZMlMRodwiIjvSGER29Q",
+      "categories": [
+        "retro"
+      ]
+    },
+    "ship-white": {
+      "name": "spacebattle_12",
+      "sourceUrl": "/api/v1/animation-library/gamelab/UibJwtV2hO5PAGbyeNMgqs7a3rUyqr89/category_retro/spacebattle_12.png",
+      "frameSize": {
+        "x": 174,
+        "y": 122
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "UibJwtV2hO5PAGbyeNMgqs7a3rUyqr89",
+      "categories": [
+        "retro"
+      ]
+    },
+    "coin-yellow": {
+      "name": "retro_coin",
+      "sourceUrl": "/api/v1/animation-library/gamelab/yyMkmGM.lMnt0PF6R49LlyGX9vMPtDav/category_retro/retro_coin.png",
+      "frameSize": {
+        "x": 95,
+        "y": 113
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "yyMkmGM.lMnt0PF6R49LlyGX9vMPtDav",
+      "categories": [
+        "retro"
+      ]
+    },
+    "heart-blue": {
+      "name": "retro_powerup_heart",
+      "sourceUrl": "/api/v1/animation-library/gamelab/TYdIIrFBMhvSaF09aD9YcAVj4Q1KENbF/category_retro/retro_powerup_heart.png",
+      "frameSize": {
+        "x": 352,
+        "y": 352
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "TYdIIrFBMhvSaF09aD9YcAVj4Q1KENbF",
+      "categories": [
+        "retro"
+      ]
+    },
+    "burst": {
+      "name": "retro_purple_burst",
+      "sourceUrl": "/api/v1/animation-library/gamelab/9s4aFFAhzDx5yIL18WhWnz..kp4ZQba1/category_retro/retro_purple_burst.png",
+      "frameSize": {
+        "x": 236,
+        "y": 237
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "9s4aFFAhzDx5yIL18WhWnz..kp4ZQba1",
+      "categories": [
+        "retro"
+      ]
+    },
+    "bg-gradient-blue": {
+      "name": "gradient_12_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/v6mZ9WuidWXvzNRGR3s7bJUKPzsOaL6u/category_backgrounds/gradient_12.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "v6mZ9WuidWXvzNRGR3s7bJUKPzsOaL6u",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-green": {
+      "name": "gradient_13_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/RnFEWg6kwTHgLC2WCCLXYrgyTwZwwy5q/category_backgrounds/gradient_13.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "RnFEWg6kwTHgLC2WCCLXYrgyTwZwwy5q",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-pink": {
+      "name": "gradient_14_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/xk9FNA5fI7KifcH2.fXAvYJEzMQCjKsW/category_backgrounds/gradient_14.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "xk9FNA5fI7KifcH2.fXAvYJEzMQCjKsW",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-gradient-yellow": {
+      "name": "gradient_15_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/7sYC8PslcLJGgu.y2HZfYLRHsCFyPUY1/category_backgrounds/gradient_15.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "7sYC8PslcLJGgu.y2HZfYLRHsCFyPUY1",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-cave": {
+      "name": "cave_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/In3iY920nuOrZ0JmAOQbuVG8j8D4iTGD/category_backgrounds/background_cave.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "In3iY920nuOrZ0JmAOQbuVG8j8D4iTGD",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-planet-classic": {
+      "name": "sci_fi_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/nzRiSKyDsq4blLQyAWJbkkTtTLJ64kxP/category_backgrounds/background_scifi.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "nzRiSKyDsq4blLQyAWJbkkTtTLJ64kxP",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-planet-purple": {
+      "name": "background_landscape09_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/T167cO7veEolJu4MdK3thTgLhnqD_rJB/category_backgrounds/background_landscape09.png",
+      "frameSize": {
+        "x": 400,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "T167cO7veEolJu4MdK3thTgLhnqD_rJB",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "bg-planet-orange": {
+      "name": "background_landscape11_1",
+      "sourceUrl": "/api/v1/animation-library/gamelab/48WvIjYXVxyuCdt3Jah08koeLbeNGtRC/category_backgrounds/background_landscape11.png",
+      "frameSize": {
+        "x": 400,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "48WvIjYXVxyuCdt3Jah08koeLbeNGtRC",
+      "categories": [
+        "backgrounds"
+      ]
+    }
+  }
+}
